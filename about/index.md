@@ -36,7 +36,7 @@ Lukianova Elizabeta, <b>Jae-Yeop Jeong</b>, and Jin-Woo Jeong <br>
 ACM Conference on Intelligent User Interfaces (<b>ACM IUI 2025</b>) <br> 
 (To Appear) <br>
 
-## Internation Journal
+## International Journal
 ### EchoTap: Non-Verbal Sound Interaction with Knock and Tap Gestures <br>
 <b>Jae-Yeop Jeong</b>, Daun Kim, and Jin-Woo Jeong <br>
 International Journal of Human-Computer Interaction 2024 <br>
