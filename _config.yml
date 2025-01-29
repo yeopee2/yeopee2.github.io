@@ -1,10 +1,10 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
+title:              Jae-Yeop Jeong
+bio:                Ph.D. Student in Data Science from SeoulTech intersted in Human-Computer Interaction
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/홈페이지프사.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -44,7 +44,7 @@ github-url:         yeopee2
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          yeopee2
+instagram:          yeopee2/
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
