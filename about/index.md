@@ -48,9 +48,29 @@ Se-Woon Choe, Ha-Yeong Yoon, <b>Jae-Yeop Jeong</b>, Jinhyung Park, Jin-Woo Jeong
 Cancers 2022 <br>
 
 ## International Conferences Poster and Workshop
+### Effect of Onset Position of Ray Casting in Virtual Reality <br>
+Jin-Woo Jeong and <b>Jae-Yeop Jeong</b> <br>
+Extended Abstracts of ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2024</b> LBW) <br>
+
+### EmoFlow: Visualizing Emotional Changes in Video Chat - Preliminary Study <br>
+Daun kim, Jiyeon Oh, <b>Jae-Yeop Jeong</b>, and Jin-Woo Jeong <br>
+LBW of ACM Conference on Mobile Human-Computer Interaction (<b>ACM MobileHCI 2023</b> LBW) <br>
+
+### Tingle Just for You: A Preliminary Study of AI-based Customized ASMR Content Generation <br>
+Jiyeon Oh, Daun kim, <b>Jae-Yeop Jeong</b>, Lukianova Elizabta, and Jin-Woo Jeong <br>
+Extended Abstracts of ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2023</b> LBW) <br>
+
+### Spot The Difference: AI, Please Make This for Me! <br>
+Yeong-Gi Hong, <b>Jae-Yeop Jeong</b>, Lukianova Elizabta, and Jin-Woo Jeong <br>
+Extended Abstracts of ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2023</b> LBW) <br>
+
+### Ensemble of Multi-task Learning Networks for Facial Expression Recognition In-the-Wild with Learning from Synthetic Data <br>
+<b>Jae-Yeop Jeong</b>, Yeong-Gi Hong, Jiyeon Oh, Sumin Hong, Yuchul Jung, and Jin-Woo Jeong <br>
+European Conference on Computer Vision Workshops (<b>ECCVW 2022</b>) <br>
+
 ### Classification of Facial Expression In-the-Wild Based on Ensemble of Multi-Head Cross Attention Networks <br>
-<b>Jae-Yeop Jeong</b>, Yeong-Gi Hong, Daun Kim, and Jin-Woo Jeong <br>
-IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2022) <br>
+<b>Jae-Yeop Jeong</b>, Yeong-Gi Hong, Daun Kim, Yuchul Jung, Sang-Ho Kim, and Jin-Woo Jeong <br>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (<b>CVPRW 2022</b>) <br>
 
 ### Visualizing Instructor’s Gaze Information for Online Video-based Learning: Preliminary Study <br>
 Daun Kim, <b>Jae-Yeop Jeong</b>, Sumin Hong, Namsub Kim, Jin-Woo Jeong <br>
@@ -58,6 +78,6 @@ ACM ETRA workshop on Eye Tracking in Learning and Education (<b>ACM ETRA worksho
 
 ### Knock&Tap: Classification and Localization of Knock and Tap Gestures using Deep Sound Transfer Learning <br>
 <b>Jae-Yeop Jeong</b>, Jung-Hwa Kim, Ha-Yeong Yoon, and Jin-Woo Jeong <br>
-ACM Conference on Multimodal Interaction (<b>ACM ICMI 2025</b>) <br>
+ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b>) <br>
 
 
