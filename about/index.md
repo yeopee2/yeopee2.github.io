@@ -43,7 +43,21 @@ International Journal of Human-Computer Interaction 2024 <br>
 <b>Jae-Yeop Jeong</b>, Jiyeon Oh, and Jin-Woo Jeong <br>
 Education and Information Technologies 2024 <br>
 
-## International Conferences Poster and Workshop
+### Automatic Cancer Cell Taxonomy Using an Ensemble of Deep Neural Networks <br>
+Se-Woon Choe, Ha-Yeong Yoon, <b>Jae-Yeop Jeong</b>, Jinhyung Park, Jin-Woo Jeong <br>
+Cancers 2022 <br>
 
+## International Conferences Poster and Workshop
+### Classification of Facial Expression In-the-Wild Based on Ensemble of Multi-Head Cross Attention Networks <br>
+<b>Jae-Yeop Jeong</b>, Yeong-Gi Hong, Daun Kim, and Jin-Woo Jeong <br>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2022) <br>
+
+### Visualizing Instructor’s Gaze Information for Online Video-based Learning: Preliminary Study <br>
+Daun Kim, <b>Jae-Yeop Jeong</b>, Sumin Hong, Namsub Kim, Jin-Woo Jeong <br>
+ACM ETRA workshop on Eye Tracking in Learning and Education (<b>ACM ETRA workshop 2022</b>) <br>
+
+### Knock&Tap: Classification and Localization of Knock and Tap Gestures using Deep Sound Transfer Learning <br>
+<b>Jae-Yeop Jeong</b>, Jung-Hwa Kim, Ha-Yeong Yoon, and Jin-Woo Jeong <br>
+ACM Conference on Multimodal Interaction (<b>ACM ICMI 2025</b>) <br>
 
 
