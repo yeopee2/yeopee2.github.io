@@ -8,34 +8,105 @@ layout: compress
 <!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
 <head>
     {% include head.html %}
+    <style>
+        /* 프로필 이미지를 위한 CSS 클래스 */
+        .profile-image {
+            width: 200px;          /* 가로 크기 */
+            height: 250px;         /* 세로 크기 */
+            object-fit: cover;     /* 이미지 비율 유지하며 잘라내기 */
+            display: block;        /* 블록 요소로 설정 */
+            margin: 0 auto;        /* 좌우 마진을 자동으로 설정하여 중앙 정렬 */
+            border-radius: 0;      /* 원형을 제거 */
+        }
+
+        /* 이메일 스타일을 위한 CSS */
+        .email-address {
+            font-size: 0.8rem;         /* 글씨 크기 */
+            color: #555;               /* 글씨 색상 */
+            margin-top: 5px;           /* 타이틀과의 간격 */
+            text-align: center;        /* 중앙 정렬 */
+        }
+        .email-address a {
+            color: #555;               /* 링크 색상 */
+            text-decoration: none;     /* 밑줄 제거 */
+        }
+        .email-address a:hover {
+            text-decoration: underline; /* 호버 시 밑줄 표시 */
+        }
+
+        /* 헤더 내부 요소 중앙 정렬 */
+        .header.flex {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        .header.flex .row {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        /* 제목 스타일 */
+        .header.flex .title p {
+            margin: 0;
+        }
+
+        /* 수평선 스타일 */
+        .hr-line {
+            width: 80%;
+            margin: 20px 0;
+            border: 0;
+            border-top: 1px solid #ccc;
+        }
+
+        /* 버튼 스타일 */
+        .btn.zoombtn {
+            margin-top: 10px;
+            padding: 10px 20px;
+            background-color: #007BFF; /* 원하는 버튼 색상으로 변경 */
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .btn.zoombtn:hover {
+            background-color: #0056b3; /* 호버 시 색상 변경 */
+        }
+    </style>
 </head>
 <body>
     <!-- Header -->
     <header class="header flex" role="banner">
         <div class="container animated fadeIn">
             <div class="row">
-                    <a href="{{ site.url }}">
-                        <img src="{{ site.logo }}" style="width: 200px; height: 250px;>
+                <a href="{{ site.url }}">
+                    <img src="{{ site.logo }}" alt="Jae-Yeop Jeong's Profile Picture" class="profile-image">
+                </a>
+                <h3 class="title">
+                    <a class="zoombtn" href="{{ site.url }}">
+                        <p style="font-size:1.2rem; font-weight:300;">{{ site.title }}</p>
                     </a>
-                    <h3 class="title">
-                        <a class="zoombtn" href="{{ site.url }}">
-                        	<p style="font-size:1.2rem;font-weight:300">{{ site.title }}</p>
-			            </a>
-                    </h3>
-                    <hr class="hr-line">
-                    <h3 class="title">
-                        <a href="{{ site.url }}">
-                        	<p style="font-size:1rem;font-weight:300">{{ site.bio }}</p>
-			            </a>
-                        <p class="email-address"></p>
-                    </h3>
-                    {% include social-links.html %}
-                  <hr class="hr-line">
-                  <h3 class="title">
-                         <a class="btn zoombtn" href="{{ site.url }}/about">
-                         About Me
-                         </a>
-                 </h3>
+                </h3>
+                <!-- 이메일 추가 -->
+                <p class="email-address">
+                    <a href="mailto:your.email@example.com">your.email@example.com</a>
+                </p>
+                <hr class="hr-line">
+                <h3 class="title">
+                    <a href="{{ site.url }}">
+                        <p style="font-size:1rem; font-weight:300;">{{ site.bio }}</p>
+                    </a>
+                </h3>
+                {% include social-links.html %}
+                <hr class="hr-line">
+                <h3 class="title">
+                    <a class="btn zoombtn" href="{{ site.url }}/about">
+                        About Me
+                    </a>
+                </h3>
             </div>
         </div>
     </header>
