@@ -15,13 +15,13 @@ comments: false
 * Interaction Techniques
 * Fundamental Theory of Human-Computer Interaction
 
-## Publications
-# International Conferences (Full)
+# Publications
+## International Conferences (Full)
 Understanding User Behavior in Window Selection using Dragging for Multiple Targets 
 "Through the Looking Glass, and What We Found There": A Comprehensive Study of User Experiences with Pass-Through Devices in Everyday Activities
 A picture is worth a thousand words? Investigating the Impact of Image Aids in AR on Memory Recall for Everyday Tasks
 
-# International Conferences Poster and Workshop
+## International Conferences Poster and Workshop
 
-# Internation Journal
+## Internation Journal
 
