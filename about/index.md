@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About the Theme
+title: Jae-Yeop Jeong
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><b>Jae-Yeop Jeong</b></a> is a Ph.D. student in Data Science of Seoul National Uinversity of Sceience (SeoulTech). He earned his BSc degree at Kumoh National Institute of Technology in 2021 and he was a researcher at Center for Immersive Media Research of GERI (Gumi Electronics ＆ Information Technology Research Institute) in 2020-2021. </center>
 
 ## Features
 * Minimal, you can focus on your content
