@@ -17,9 +17,12 @@ comments: false
 
 # Publications
 ## International Conferences (Full)
-Understanding User Behavior in Window Selection using Dragging for Multiple Targets 
-"Through the Looking Glass, and What We Found There": A Comprehensive Study of User Experiences with Pass-Through Devices in Everyday Activities
-A picture is worth a thousand words? Investigating the Impact of Image Aids in AR on Memory Recall for Everyday Tasks
+Understanding User Behavior in Window Selection using Dragging for Multiple Targets (To Appear) <br>
+<b>Jae-Yeop Jeong</b> and Jin-Woo Jeong
+ACM Conference on Human Factors in Computing Systems (ACM CHI 2025) (Acceptance Rate: 25.1%) <br>
+
+"Through the Looking Glass, and What We Found There": A Comprehensive Study of User Experiences with Pass-Through Devices in Everyday Activities <br>
+A picture is worth a thousand words? Investigating the Impact of Image Aids in AR on Memory Recall for Everyday Tasks <br>
 
 ## International Conferences Poster and Workshop
 
