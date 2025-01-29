@@ -19,10 +19,17 @@ comments: false
 
 ## Publications
 # International Conferences (Full)
-### Understanding User Behavior in Window Selection using Dragging for Multiple Targets <br>
-<b>Jae-Yeop Jeong>/b> and Jin-Woo Jeong
-### "Through the Looking Glass, and What We Found There": A Comprehensive Study of User Experiences with Pass-Through Devices in Everyday Activities <br>
-### A picture is worth a thousand words? Investigating the Impact of Image Aids in AR on Memory Recall for Everyday Tasks
+### Understanding User Behavior in Window Selection using Dragging for Multiple Targets (To Appear) <br>
+<b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
+ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b>) (Acceptance Rate: 25.1%) <br>
+
+### "Through the Looking Glass, and What We Found There": A Comprehensive Study of User Experiences with Pass-Through Devices in Everyday Activities (To Appear) <br>
+DaeWook Kim, Yewon Min, <b>Jae-Yeop Jeong</b>, Sehee Han, JiYeon Hwang and Jin-Woo Jeong <br>
+ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b>) (Acceptance Rate: 25.1%) <br> 
+
+### A picture is worth a thousand words? Investigating the Impact of Image Aids in AR on Memory Recall for Everyday Tasks (To Appear)
+Lukianova Elizabeta, <b>Jae-Yeop Jeong</b>, and Jin-Woo Jeong <br>
+ACM Conference on Intelligent User Interfaces (<b>ACM IUI 2025</b>) (Acceptance Rate: TBA) <br> 
 
 # International Conferences Poster and Workshop
 
