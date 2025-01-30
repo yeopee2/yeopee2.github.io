@@ -21,7 +21,8 @@ comments: false
 
 # Publications
 ## Conferences
-### Understanding User Behavior in Window Selection using Dragging for Multiple Targets <br>
+### Understanding User Behavior in Window Selection using Dragging for Multiple Targets 
+<span style="display:block; margin-bottom: 5px;">
 <b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
 ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b>) <br>
 (To Appear) <br>
