@@ -10,7 +10,7 @@ comments: false
     <img src="/assets/img/제주도.jpg" alt="Profile Picture">
 </div>
 <br>
-<b>Jae-Yeop Jeong</b> is a Ph.D. student in Data Science of Seoul National University of Science (SeoulTech). He earned his BSc degree at Kumoh National Institute of Technology (KIT) in 2021 and he was a researcher at Center for Immersive Media Research of Gumi Electronics ＆ Information Technology Research Institute (GERI) in 2020-2021. He is very open to collaborating with a diverse range of individuals on research projects. Please feel free to contact him (<b>jaey.jeong@seoultech.ac.kr</b>).
+<b>Jae-Yeop Jeong</b> is a Ph.D. student in Data Science of Seoul National University of Science and Technology (SeoulTech). He earned his BSe degree at Kumoh National Institute of Technology (KIT) in 2021 and he was a researcher at Center for Immersive Media Research of Gumi Electronics ＆ Information Technology Research Institute (GERI) in 2020-2021. He is very open to collaborating with a diverse range of individuals on research projects. Please feel free to contact him (<b>jaey.jeong@seoultech.ac.kr</b>).
 
 # Research Interest
 * Human Performance Modeling
@@ -46,7 +46,7 @@ International Journal of Human-Computer Interaction 2024 <br>
 Education and Information Technologies 2024 <br>
 
 ### Automatic Cancer Cell Taxonomy Using an Ensemble of Deep Neural Networks <br>
-Se-Woon Choe, Ha-Yeong Yoon, <b>Jae-Yeop Jeong</b>, Jinhyung Park, Jin-Woo Jeong <br>
+Se-Woon Choe, Ha-Yeong Yoon, <b>Jae-Yeop Jeong</b>, Jinhyung Park, and Jin-Woo Jeong <br>
 Cancers 2022 <br>
 
 ## International Conferences Poster and Workshop
@@ -75,11 +75,19 @@ European Conference on Computer Vision Workshops (<b>ECCVW 2022</b>) <br>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (<b>CVPRW 2022</b>) <br>
 
 ### Visualizing Instructor’s Gaze Information for Online Video-based Learning: Preliminary Study <br>
-Daun Kim, <b>Jae-Yeop Jeong</b>, Sumin Hong, Namsub Kim, Jin-Woo Jeong <br>
-ACM ETRA workshop on Eye Tracking in Learning and Education (<b>ACM ETRA workshop 2022</b>) <br>
+Daun Kim, <b>Jae-Yeop Jeong</b>, Sumin Hong, Namsub Kim, and Jin-Woo Jeong <br>
+ACM ETRA workshop on Eye Tracking in Learning and Education (<b>ACM ETRA 2022</b> workshop) <br>
 
 ### Knock&Tap: Classification and Localization of Knock and Tap Gestures using Deep Sound Transfer Learning <br>
 <b>Jae-Yeop Jeong</b>, Jung-Hwa Kim, Ha-Yeong Yoon, and Jin-Woo Jeong <br>
-ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b>) <br>
+ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b> LBR) <br>
+
+# Awards
+### KIRD 2022: Outstanding Technology Award in Real-Challenge competition<br>
+### ECCV 2022: 4th Workshop and Competition on Affective Behavior Analysis in-the-wild (ABAW) <br>
+<b>3rd place</b> in "Learning from Synthesis Data" Challenge <br>
+### CVPR 2022: 3rd Workshop and Competition on Affective Behavior Analysis in-the-wild (ABAW)<br>
+<b>Runner up</b> in Expression Classification Challenge <br>
+
 
 
