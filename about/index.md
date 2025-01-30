@@ -20,7 +20,7 @@ comments: false
 * Fundamental Theory of Human-Computer Interaction
 
 # Publications
-## International Conferences (Full)
+## Conferences
 ### Understanding User Behavior in Window Selection using Dragging for Multiple Targets <br>
 <b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
 ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b>) <br>
@@ -36,7 +36,7 @@ Lukianova Elizabeta, <b>Jae-Yeop Jeong</b>, and Jin-Woo Jeong <br>
 ACM Conference on Intelligent User Interfaces (<b>ACM IUI 2025</b>) <br> 
 (To Appear) <br>
 
-## International Journal
+## Journals
 ### EchoTap: Non-Verbal Sound Interaction with Knock and Tap Gestures <br>
 <b>Jae-Yeop Jeong</b>, Daun Kim, and Jin-Woo Jeong <br>
 International Journal of Human-Computer Interaction 2024 <br>
@@ -49,7 +49,7 @@ Education and Information Technologies 2024 <br>
 Se-Woon Choe, Ha-Yeong Yoon, <b>Jae-Yeop Jeong</b>, Jinhyung Park, and Jin-Woo Jeong <br>
 Cancers 2022 <br>
 
-## International Conferences Poster and Workshop
+## Poster and Workshop
 ### Effect of Onset Position of Ray Casting in Virtual Reality <br>
 Jin-Woo Jeong and <b>Jae-Yeop Jeong</b> <br>
 Extended Abstracts of ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2024</b> LBW) <br>
