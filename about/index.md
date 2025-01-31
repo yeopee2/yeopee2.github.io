@@ -37,7 +37,7 @@ ACM Conference on Intelligent User Interfaces (<b>ACM IUI 2025</b>) <br>
 (To Appear) <br>
 
 ## Journals
-### EchoTap: Non-Verbal Sound Interaction with Knock and Tap Gestures <br>
+### <a href="https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2348837" target="_blank"> EchoTap: Non-Verbal Sound Interaction with Knock and Tap Gestures </a> <br>
 <b>Jae-Yeop Jeong</b>, Daun Kim, and Jin-Woo Jeong <br>
 International Journal of Human-Computer Interaction 2024 <br>
 
