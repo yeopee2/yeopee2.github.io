@@ -10,7 +10,7 @@ comments: false
     <img src="/assets/img/제주도.jpg" alt="Profile Picture">
 </div>
 <br>
-<b>Jae-Yeop Jeong</b> is a Ph.D. student in Data Science of Seoul National University of Science and Technology (SeoulTech). He earned his BSe degree at Kumoh National Institute of Technology (KIT) in 2021 and he was a researcher at Center for Immersive Media Research of Gumi Electronics ＆ Information Technology Research Institute (GERI) in 2020-2021. He is very open to collaborating with a diverse range of individuals on research projects. Please feel free to contact him (<b>jaey.jeong@seoultech.ac.kr</b>).
+<b>Jae-Yeop Jeong</b> is a Ph.D. student in Data Science of Seoul National University of Science and Technology (SeoulTech) directed by <a href="ixlab.seoultech.ac.kr" target="_blank">Jin-Woo Jeong</a>. He earned his BSe degree at Kumoh National Institute of Technology (KIT) in 2021 and he was a researcher at Center for Immersive Media Research of Gumi Electronics ＆ Information Technology Research Institute (GERI) in 2020-2021. He is very open to collaborating with a diverse range of individuals on research projects. Please feel free to contact him (<b>jaey.jeong@seoultech.ac.kr</b>).
 
 # Research Interest
 * Human Performance Modeling
