@@ -50,7 +50,7 @@ Se-Woon Choe, Ha-Yeong Yoon, <b>Jae-Yeop Jeong</b>, Jinhyung Park, and Jin-Woo J
 Cancers 2022 <br>
 
 ## Poster and Workshop
-###  Exploring Emotion Expression Through Silent Speech Interface in Public VR/MR: Effects of Automation on User Experience </a> <br>
+###  Exploring Emotion Expression Through Silent Speech Interface in Public VR/MR: Effects of Automation on User Experience <br>
 Yewon Min, Jiyeon Oh, <b>Jae-Yeop Jeong</b>, and Jin-Woo Jeong Jin-Woo Jeong <br>
 Extended Abstracts of ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b> LBW) <br>
 (To Appear) <br>
