@@ -50,6 +50,11 @@ Se-Woon Choe, Ha-Yeong Yoon, <b>Jae-Yeop Jeong</b>, Jinhyung Park, and Jin-Woo J
 Cancers 2022 <br>
 
 ## Poster and Workshop
+###  Exploring Emotion Expression Through Silent Speech Interface in Public VR/MR: Effects of Automation on User Experience </a> <br>
+Yewon Min, Jiyeon Oh, <b>Jae-Yeop Jeong</b>, and Jin-Woo Jeong Jin-Woo Jeong <br>
+Extended Abstracts of ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b> LBW) <br>
+(To Appear) <br>
+
 ### <a href="https://dl.acm.org/doi/full/10.1145/3613905.3650905" target="_blank"> Effect of Onset Position of Ray Casting in Virtual Reality </a> <br>
 Jin-Woo Jeong and <b>Jae-Yeop Jeong</b> <br>
 Extended Abstracts of ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2024</b> LBW) <br>
