@@ -34,7 +34,6 @@ ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b>) <br>
 ### <a href="https://dl.acm.org/doi/10.1145/3708359.3712087" target="_blank"> A picture is worth a thousand words? Investigating the Impact of Image Aids in AR on Memory Recall for Everyday Tasks <br>
 Lukianova Elizabeta, <b>Jae-Yeop Jeong</b>, and Jin-Woo Jeong <br>
 ACM Conference on Intelligent User Interfaces (<b>ACM IUI 2025</b>) <br> 
-(To Appear) <br>
 
 ## Journals
 ### <a href="https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2348837" target="_blank"> EchoTap: Non-Verbal Sound Interaction with Knock and Tap Gestures </a> <br>
