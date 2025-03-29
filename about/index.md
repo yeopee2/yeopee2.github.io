@@ -93,12 +93,12 @@ ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b> LBR) <br>
 <hr>
 
 # Awards
-### KIRD 2022: Outstanding Technology Award in Real-Challenge competition<br>
+### CHI 2025: Honorable Mention Award <br>
+### KIRD 2022: Outstanding Technology Award in Real-Challenge competition <br>
 ### ECCV 2022: 4th Workshop and Competition on Affective Behavior Analysis in-the-wild (ABAW)
 <b>3rd place</b> in "Learning from Synthesis Data" Challenge <br>
 ### CVPR 2022: 3rd Workshop and Competition on Affective Behavior Analysis in-the-wild (ABAW)
 <b>Runner up</b> in Expression Classification Challenge <br>
-### CHI 2025: Honorable Mention Award
 
 <hr>
 
