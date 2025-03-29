@@ -24,7 +24,7 @@ comments: false
 ### Understanding User Behavior in Window Selection using Dragging for Multiple Targets <br>
 <b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
 ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b>) <br>
-<span style="color: red;"><b>Honorable Mention Award at CHI 2025</b></span> <br>
+🏅<span style="color: red;"><b>Honorable Mention Award at CHI 2025</b></span> <br>
 (To Appear) <br>
 
 ### "Through the Looking Glass, and What We Found There": A Comprehensive Study of User Experiences with Pass-Through Devices in Everyday Activities <br>
