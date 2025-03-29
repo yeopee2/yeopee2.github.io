@@ -26,7 +26,6 @@ comments: false
 ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b>) <br>
 🏅<span style="color: red;"><b>Honorable Mention Award at CHI 2025</b></span> <br>
 (To Appear) <br>
-<hr>
 
 ### "Through the Looking Glass, and What We Found There": A Comprehensive Study of User Experiences with Pass-Through Devices in Everyday Activities <br>
 DaeWook Kim, Yewon Min, <b>Jae-Yeop Jeong</b>, Sehee Han, JiYeon Hwang and Jin-Woo Jeong <br>
@@ -36,6 +35,7 @@ ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b>) <br>
 ### <a href="https://dl.acm.org/doi/10.1145/3708359.3712087" target="_blank"> A picture is worth a thousand words? Investigating the Impact of Image Aids in AR on Memory Recall for Everyday Tasks <br>
 Lukianova Elizabeta, <b>Jae-Yeop Jeong</b>, and Jin-Woo Jeong <br>
 ACM Conference on Intelligent User Interfaces (<b>ACM IUI 2025</b>) <br> 
+<hr>
 
 ## Journals
 ### <a href="https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2348837" target="_blank"> EchoTap: Non-Verbal Sound Interaction with Knock and Tap Gestures </a> <br>
@@ -49,6 +49,8 @@ Education and Information Technologies 2024 <br>
 ### <a href="https://www.mdpi.com/2072-6694/14/9/2224" target="_blank"> Automatic Cancer Cell Taxonomy Using an Ensemble of Deep Neural Networks </a> <br>
 Se-Woon Choe, Ha-Yeong Yoon, <b>Jae-Yeop Jeong</b>, Jinhyung Park, and Jin-Woo Jeong <br>
 Cancers 2022 <br>
+
+<hr>
 
 ## Poster and Workshop
 ###  Exploring Emotion Expression Through Silent Speech Interface in Public VR/MR: Effects of Automation on User Experience <br>
@@ -88,17 +90,23 @@ ACM ETRA workshop on Eye Tracking in Learning and Education (<b>ACM ETRA 2022</b
 <b>Jae-Yeop Jeong</b>, Jung-Hwa Kim, Ha-Yeong Yoon, and Jin-Woo Jeong <br>
 ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b> LBR) <br>
 
+<hr>
+
 # Awards
 ### KIRD 2022: Outstanding Technology Award in Real-Challenge competition<br>
 ### ECCV 2022: 4th Workshop and Competition on Affective Behavior Analysis in-the-wild (ABAW)
 <b>3rd place</b> in "Learning from Synthesis Data" Challenge <br>
 ### CVPR 2022: 3rd Workshop and Competition on Affective Behavior Analysis in-the-wild (ABAW)
 <b>Runner up</b> in Expression Classification Challenge <br>
+### CHI 2025: Honorable Mention Award
+
+<hr>
 
 # Academic Services
 ### Reviewer
 CHI LBW 25 <br>
 ICMI LBR 24
+
 
 
 
