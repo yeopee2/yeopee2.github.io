@@ -21,7 +21,7 @@ comments: false
 
 # Publications
 ## Conferences
-<span style="font-size: 24px; font-weight: bold;">
+<span style="font-size: 18px; font-weight: bold;">
   <a href="https://doi.org/10.1145/3706598.3713410" target="_blank">
     Understanding User Behavior in Window Selection using Dragging for Multiple Targets
   </a>
