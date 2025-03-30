@@ -102,27 +102,51 @@ Extended Abstracts of ACM Conference on Human Factors in Computing Systems (<b>A
 Daun kim, Jiyeon Oh, <b>Jae-Yeop Jeong</b>, and Jin-Woo Jeong <br>
 LBW of ACM Conference on Mobile Human-Computer Interaction (<b>ACM MobileHCI 2023</b> LBW) <br>
 
-### <a href="https://dl.acm.org/doi/full/10.1145/3544549.3585872" target="_blank"> Tingle Just for You: A Preliminary Study of AI-based Customized ASMR Content Generation </a> <br>
+<span style="font-size: 18px; font-weight: bold;">
+  <a href="https://dl.acm.org/doi/full/10.1145/3544549.3585872" target="_blank"> 
+       Tingle Just for You: A Preliminary Study of AI-based Customized ASMR Content Generation 
+  </a> 
+</span>
 Jiyeon Oh, Daun kim, <b>Jae-Yeop Jeong</b>, Lukianova Elizabta, and Jin-Woo Jeong <br>
 Extended Abstracts of ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2023</b> LBW) <br>
 
-### <a href="https://dl.acm.org/doi/full/10.1145/3544549.3585879" target="_blank"> Spot The Difference: AI, Please Make This for Me! </a> <br>
+<span style="font-size: 18px; font-weight: bold;">
+  <a href="https://dl.acm.org/doi/full/10.1145/3544549.3585879" target="_blank"> 
+       Spot The Difference: AI, Please Make This for Me! 
+  </a> 
+</span>
 Yeong-Gi Hong, <b>Jae-Yeop Jeong</b>, Lukianova Elizabta, and Jin-Woo Jeong <br>
 Extended Abstracts of ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2023</b> LBW) <br>
 
-### <a href="https://link.springer.com/chapter/10.1007/978-3-031-25075-0_5" target="_blank"> Ensemble of Multi-task Learning Networks for Facial Expression Recognition In-the-Wild with Learning from Synthetic Data </a> <br>
+<span style="font-size: 18px; font-weight: bold;">
+  <a href="https://link.springer.com/chapter/10.1007/978-3-031-25075-0_5" target="_blank"> 
+       Ensemble of Multi-task Learning Networks for Facial Expression Recognition In-the-Wild with Learning from Synthetic Data 
+  </a> 
+</span>
 <b>Jae-Yeop Jeong</b>, Yeong-Gi Hong, Jiyeon Oh, Sumin Hong, Yuchul Jung, and Jin-Woo Jeong <br>
 European Conference on Computer Vision Workshops (<b>ECCVW 2022</b>) <br>
 
-### <a href="https://openaccess.thecvf.com/content/CVPR2022W/ABAW/html/Jeong_Classification_of_Facial_Expression_In-the-Wild_Based_on_Ensemble_of_Multi-Head_CVPRW_2022_paper.html" target="_blank"> Classification of Facial Expression In-the-Wild Based on Ensemble of Multi-Head Cross Attention Networks </a> <br>
+<span style="font-size: 18px; font-weight: bold;">
+  <a href="https://openaccess.thecvf.com/content/CVPR2022W/ABAW/html/Jeong_Classification_of_Facial_Expression_In-the-Wild_Based_on_Ensemble_of_Multi-Head_CVPRW_2022_paper.html" target="_blank"> 
+       Classification of Facial Expression In-the-Wild Based on Ensemble of Multi-Head Cross Attention Networks
+  </a> 
+</span>
 <b>Jae-Yeop Jeong</b>, Yeong-Gi Hong, Daun Kim, Yuchul Jung, Sang-Ho Kim, and Jin-Woo Jeong <br>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (<b>CVPRW 2022</b>) <br>
 
-### <a href="https://dl.acm.org/doi/abs/10.1145/3517031.3529238" target="_blank"> Visualizing Instructor’s Gaze Information for Online Video-based Learning: Preliminary Study </a> <br>
+<span style="font-size: 18px; font-weight: bold;">
+  <a href="https://dl.acm.org/doi/abs/10.1145/3517031.3529238" target="_blank"> 
+       Visualizing Instructor’s Gaze Information for Online Video-based Learning: Preliminary Study
+  </a> 
+</span>
 Daun Kim, <b>Jae-Yeop Jeong</b>, Sumin Hong, Namsub Kim, and Jin-Woo Jeong <br>
 ACM ETRA workshop on Eye Tracking in Learning and Education (<b>ACM ETRA 2022</b> workshop) <br>
 
-### <a href="https://dl.acm.org/doi/abs/10.1145/3461615.3485428" target="_blank"> Knock&Tap: Classification and Localization of Knock and Tap Gestures using Deep Sound Transfer Learning </a> <br>
+<span style="font-size: 18px; font-weight: bold;">
+  <a href="https://dl.acm.org/doi/abs/10.1145/3461615.3485428" target="_blank"> 
+       Knock&Tap: Classification and Localization of Knock and Tap Gestures using Deep Sound Transfer Learning
+  </a> 
+</span>
 <b>Jae-Yeop Jeong</b>, Jung-Hwa Kim, Ha-Yeong Yoon, and Jin-Woo Jeong <br>
 ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b> LBR) <br>
 
