@@ -21,13 +21,13 @@ comments: false
 
 # Publications
 ## Conferences
-### Understanding User Behavior in Window Selection using Dragging for Multiple Targets <br>
+<a href="https://doi.org/10.1145/3706598.3713410" target="_blank"> Understanding User Behavior in Window Selection using Dragging for Multiple Targets <br>
 <b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
 ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b>) <br>
 🏅<span style="color: red;"><b>Honorable Mention Award at CHI 2025</b></span> <br>
 (To Appear) <br>
 
-### "Through the Looking Glass, and What We Found There": A Comprehensive Study of User Experiences with Pass-Through Devices in Everyday Activities <br>
+### <a href="https://doi.org/10.1145/3706598.3714221" target="_blank"> "Through the Looking Glass, and What We Found There": A Comprehensive Study of User Experiences with Pass-Through Devices in Everyday Activities <br>
 DaeWook Kim, Yewon Min, <b>Jae-Yeop Jeong</b>, Sehee Han, JiYeon Hwang and Jin-Woo Jeong <br>
 ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b>) <br> 
 (To Appear) <br>
