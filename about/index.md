@@ -23,7 +23,7 @@ comments: false
 ## Conferences
 <span style="font-size: 18px; font-weight: bold;">
   <a href="https://doi.org/10.1145/3706598.3713410" target="_blank">
-    Understanding User Behavior in Window Selection using Dragging for Multiple Targets
+    1. Understanding User Behavior in Window Selection using Dragging for Multiple Targets
   </a>
 </span><br>
 <b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
@@ -31,42 +31,74 @@ ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b>) <br>
 🏅<span style="color: red;"><b>Honorable Mention Award at CHI 2025</b></span> <br>
 (To Appear) <br>
 
-### <a href="https://doi.org/10.1145/3706598.3714221" target="_blank"> "Through the Looking Glass, and What We Found There": A Comprehensive Study of User Experiences with Pass-Through Devices in Everyday Activities <br>
+<span style="font-size: 18px; font-weight: bold;">
+  <a href="https://doi.org/10.1145/3706598.3714221" target="_blank"> 
+      2. "Through the Looking Glass, and What We Found There": A Comprehensive Study of User Experiences with Pass-Through Devices in Everyday Activities
+  </a>
+</span>
 DaeWook Kim, Yewon Min, <b>Jae-Yeop Jeong</b>, Sehee Han, JiYeon Hwang and Jin-Woo Jeong <br>
 ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b>) <br> 
 (To Appear) <br>
 
-### <a href="https://dl.acm.org/doi/10.1145/3708359.3712087" target="_blank"> A picture is worth a thousand words? Investigating the Impact of Image Aids in AR on Memory Recall for Everyday Tasks <br>
+<span style="font-size: 18px; font-weight: bold;">
+  <a href="https://dl.acm.org/doi/10.1145/3708359.3712087" target="_blank"> 
+      3. A picture is worth a thousand words? Investigating the Impact of Image Aids in AR on Memory Recall for Everyday Tasks
+  </a>
+</span>
 Lukianova Elizabeta, <b>Jae-Yeop Jeong</b>, and Jin-Woo Jeong <br>
 ACM Conference on Intelligent User Interfaces (<b>ACM IUI 2025</b>) <br> 
+
 <hr>
 
 ## Journals
-### <a href="https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2348837" target="_blank"> EchoTap: Non-Verbal Sound Interaction with Knock and Tap Gestures </a> <br>
+<span style="font-size: 18px; font-weight: bold;">
+  <a href="https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2348837" target="_blank"> 
+      1. EchoTap: Non-Verbal Sound Interaction with Knock and Tap Gestures </a>
+</span>
 <b>Jae-Yeop Jeong</b>, Daun Kim, and Jin-Woo Jeong <br>
 International Journal of Human-Computer Interaction 2024 <br>
 
-### <a href="https://link.springer.com/article/10.1007/s10639-024-12697-w" target="_blank"> Enhancing learner experience with instructor cues in video lectures: A comprehensive exploration and design discovery toward a novel gaze visualization </a> <br>
+<span style="font-size: 18px; font-weight: bold;">
+  <a href="https://link.springer.com/article/10.1007/s10639-024-12697-w" target="_blank"> 
+      2. Enhancing learner experience with instructor cues in video lectures: A comprehensive exploration and design discovery toward a novel gaze visualization 
+  </a>
+</span>
 <b>Jae-Yeop Jeong</b>, Jiyeon Oh, and Jin-Woo Jeong <br>
 Education and Information Technologies 2024 <br>
 
-### <a href="https://www.mdpi.com/2072-6694/14/9/2224" target="_blank"> Automatic Cancer Cell Taxonomy Using an Ensemble of Deep Neural Networks </a> <br>
+<span style="font-size: 18px; font-weight: bold;">
+  <a href="https://www.mdpi.com/2072-6694/14/9/2224" target="_blank"> 
+      3. Automatic Cancer Cell Taxonomy Using an Ensemble of Deep Neural Networks 
+  </a> 
+</span>
 Se-Woon Choe, Ha-Yeong Yoon, <b>Jae-Yeop Jeong</b>, Jinhyung Park, and Jin-Woo Jeong <br>
 Cancers 2022 <br>
 
 <hr>
 
 ## Poster and Workshop
-###  Exploring Emotion Expression Through Silent Speech Interface in Public VR/MR: Effects of Automation on User Experience <br>
+<span style="font-size: 18px; font-weight: bold;">
+  <a href="https://doi.org/10.1145/3706599.3720209" target="_blank"> 
+      Exploring Emotion Expression Through Silent Speech Interface in Public VR/MR: Effects of Automation on User Experience 
+  </a> 
+</span>
 Yewon Min, Jiyeon Oh, <b>Jae-Yeop Jeong</b>, and Jin-Woo Jeong <br>
 Extended Abstracts of ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b> LBW) <br>
 (To Appear) <br>
 
-### <a href="https://dl.acm.org/doi/full/10.1145/3613905.3650905" target="_blank"> Effect of Onset Position of Ray Casting in Virtual Reality </a> <br>
+<span style="font-size: 18px; font-weight: bold;">
+  <a href="https://dl.acm.org/doi/full/10.1145/3613905.3650905" target="_blank"> 
+      Effect of Onset Position of Ray Casting in Virtual Reality 
+  </a> 
+</span>
 Jin-Woo Jeong and <b>Jae-Yeop Jeong</b> <br>
 Extended Abstracts of ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2024</b> LBW) <br>
 
-### <a href="https://dl.acm.org/doi/abs/10.1145/3565066.3608702" target="_blank"> EmoFlow: Visualizing Emotional Changes in Video Chat - Preliminary Study </a> <br>
+<span style="font-size: 18px; font-weight: bold;">
+  <a href="https://dl.acm.org/doi/abs/10.1145/3565066.3608702" target="_blank"> 
+      EmoFlow: Visualizing Emotional Changes in Video Chat - Preliminary Study 
+  </a> 
+</span>
 Daun kim, Jiyeon Oh, <b>Jae-Yeop Jeong</b>, and Jin-Woo Jeong <br>
 LBW of ACM Conference on Mobile Human-Computer Interaction (<b>ACM MobileHCI 2023</b> LBW) <br>
 
