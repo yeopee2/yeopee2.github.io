@@ -45,6 +45,7 @@ ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b>) <br>
 </span><br>
 Lukianova Elizabeta, <b>Jae-Yeop Jeong</b>, and Jin-Woo Jeong <br>
 ACM Conference on Intelligent User Interfaces (<b>ACM IUI 2025</b>) <br> 
+🏅<span style="color: red;"><b>Best Paper Award at IUI 2025</b></span> <br>
 
 <hr>
 
