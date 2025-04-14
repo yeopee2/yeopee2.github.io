@@ -153,7 +153,10 @@ ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b> LBR) <br>
 
 # Awards
 <span style="font-size: 18px; font-weight: bold;">
-    CHI 2025: Honorable Mention Award
+    CHI 2025: 🏅 Honorable Mention Award
+</span><br>
+<span style="font-size: 18px; font-weight: bold;">
+    IUI 2025: 🏅 Best Paper Award
 </span><br>
 <span style="font-size: 18px; font-weight: bold;">
     KIRD 2022: Outstanding Technology Award in Real-Challenge competition
