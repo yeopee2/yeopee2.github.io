@@ -27,7 +27,7 @@ comments: false
 <b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
 ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b>) <br>
 🏅<span style="color: red;"><b>Honorable Mention Award at CHI 2025</b></span> <br>
-(To Appear) <br>
+
 
 <span style="font-size: 18px; font-weight: bold;">
   <a href="https://doi.org/10.1145/3706598.3714221" target="_blank"> 
@@ -36,7 +36,7 @@ ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b>) <br>
 </span><br>
 DaeWook Kim, Yewon Min, <b>Jae-Yeop Jeong</b>, Sehee Han, JiYeon Hwang and Jin-Woo Jeong <br>
 ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b>) <br> 
-(To Appear) <br>
+
 
 <span style="font-size: 18px; font-weight: bold;">
   <a href="https://dl.acm.org/doi/10.1145/3708359.3712087" target="_blank"> 
