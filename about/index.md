@@ -83,7 +83,6 @@ Cancers 2022 <br>
 </span><br>
 Yewon Min, Jiyeon Oh, <b>Jae-Yeop Jeong</b>, and Jin-Woo Jeong <br>
 Extended Abstracts of ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b> LBW) <br>
-(To Appear) <br>
 
 <span style="font-size: 18px; font-weight: bold;">
   <a href="https://dl.acm.org/doi/full/10.1145/3613905.3650905" target="_blank"> 
