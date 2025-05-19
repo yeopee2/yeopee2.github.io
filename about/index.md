@@ -14,17 +14,12 @@ comments: false
 
 # Research Interest
 <pre>
-├── Human-Computer Interaction (HCI)
-│   ├── User Behavior Modeling
-│   │   ├── Cognition under High Cognitive Load
-│   │   └── Motor Control in Pointing
-│   └── Computational Interaction
-│       └── Fitts' Law, Steering Law, and Beyond
-├── AI-assisted Interaction
-│   ├── Reinforcement Learning for Simulated Users
-│   └── Personalization through Multimodal Sensing
-└── Accessibility & Inclusive Design
-    └── Barrier-Free Kiosk Optimization via Biomechanics
+Human-Computer Interaction (HCI)
+│   ├── Computational Interaction
+│   │   ├── Fitts' Law, Steering Law, and Beyond
+│   │   └── User Simulation for GUI operations
+│   └── Advanced User Interfaces for Extrem User Performance
+│       └── Parametric Input Devices, Techniques, and Systmes
 </pre>
 
 
