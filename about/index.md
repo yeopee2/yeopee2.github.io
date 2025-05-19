@@ -13,14 +13,20 @@ comments: false
 <b>Jae-Yeop Jeong</b> is a Ph.D. student in Data Science of Seoul National University of Science and Technology (SeoulTech) directed by <a href="http://ixlab.seoultech.ac.kr" target="_blank">Jin-Woo Jeong</a>. He earned his BSe degree at Kumoh National Institute of Technology (KIT) in 2021 and he was a researcher at Center for Immersive Media Research of Gumi Electronics ＆ Information Technology Research Institute (GERI) in 2020-2021. Please feel free to contact him (<b>jaey.jeong@seoultech.ac.kr</b>).
 
 # Research Interest
-<ul>
-  <li>*Advanced User Interface
-    <ul>
-      <li>Human Behavior Modeling</li>
-      <li>TBA</li>
-    </ul>
-  </li>
-</ul>
+<pre>
+├── Human-Computer Interaction (HCI)
+│   ├── User Behavior Modeling
+│   │   ├── Cognition under High Cognitive Load
+│   │   └── Motor Control in Pointing
+│   └── Computational Interaction
+│       └── Fitts' Law, Steering Law, and Beyond
+├── AI-assisted Interaction
+│   ├── Reinforcement Learning for Simulated Users
+│   └── Personalization through Multimodal Sensing
+└── Accessibility & Inclusive Design
+    └── Barrier-Free Kiosk Optimization via Biomechanics
+</pre>
+
 
 # Publications
 ## Conferences
