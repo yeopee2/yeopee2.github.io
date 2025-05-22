@@ -18,7 +18,7 @@ Human-Computer Interaction (HCI)
 │   ├── Computational Interaction
 │   │   ├── Fitts' Law, Steering Law, and Beyond
 │   │   └── User Simulation for GUI operations
-│   └── Advanced User Interfaces for Extrem User Performance
+│   └── Advanced User Interfaces
 │       └── Parametric Input Devices, Techniques, and Systmes
 </pre>
 
