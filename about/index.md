@@ -19,7 +19,7 @@ Human-Computer Interaction (HCI)
 │   │   ├── Fitts' Law, Steering Law, and Beyond
 │   │   └── User Simulation for GUI operations
 │   └── Advanced User Interfaces
-│       └── Parametric Input Devices, Techniques, and Systmes
+│       └── Parametric Input Devices, Techniques, and Systems
 </pre>
 
 
