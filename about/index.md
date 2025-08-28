@@ -83,6 +83,13 @@ Cancers 2022 <br>
 
 ## Poster and Workshop
 <span style="font-size: 18px; font-weight: bold;">
+      Silent Yet Expressive: Toward Seamless VR Communication through Emotion-aware Silent Speech Interfaces (To appear)
+  </a> 
+</span><br>
+Yewon Min, Jiyeon Oh, <b>Jae-Yeop Jeong</b>, and Jin-Woo Jeong <br>
+Adjunct Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (<b>ACM UIST 2025</b> Adjunct) <br>
+
+<span style="font-size: 18px; font-weight: bold;">
   <a href="https://doi.org/10.1145/3706599.3720209" target="_blank"> 
       Exploring Emotion Expression Through Silent Speech Interface in Public VR/MR: Effects of Automation on User Experience 
   </a> 
