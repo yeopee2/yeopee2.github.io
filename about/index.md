@@ -57,11 +57,18 @@ ACM Conference on Intelligent User Interfaces (<b>ACM IUI 2025</b>) <br>
 
 ## Journals
 <span style="font-size: 18px; font-weight: bold;">
+  <a href="https://peerj.com/articles/cs-3170/" target="_blank"> 
+      Mitigating inappropriate concepts in text-to-image generation with attention-guided Image editing </a>
+</span><br>
+Jiyeon Oh, <b>Jae-Yeop Jeong</b>, Yeong-Gi Hong, and Jin-Woo Jeong <br>
+ PeerJ Computer Science 2025 <br>
+
+<span style="font-size: 18px; font-weight: bold;">
   <a href="https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2348837" target="_blank"> 
       EchoTap: Non-Verbal Sound Interaction with Knock and Tap Gestures </a>
 </span><br>
 <b>Jae-Yeop Jeong</b>, Daun Kim, and Jin-Woo Jeong <br>
-International Journal of Human-Computer Interaction 2024 <br>
+International Journal of Human-Computer Interaction 2025 <br>
 
 <span style="font-size: 18px; font-weight: bold;">
   <a href="https://link.springer.com/article/10.1007/s10639-024-12697-w" target="_blank"> 
@@ -83,7 +90,8 @@ Cancers 2022 <br>
 
 ## Poster and Workshop
 <span style="font-size: 18px; font-weight: bold;">
-      Silent Yet Expressive: Toward Seamless VR Communication through Emotion-aware Silent Speech Interfaces (To appear)
+    <a href="https://programs.sigchi.org/uist/2025/program/content/209381" target="_blank">
+      Silent Yet Expressive: Toward Seamless VR Communication through Emotion-aware Silent Speech Interfaces
 </span><br>
 Yewon Min, Jiyeon Oh, <b>Jae-Yeop Jeong</b>, and Jin-Woo Jeong <br>
 Adjunct Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (<b>ACM UIST 2025</b> Adjunct) <br>
