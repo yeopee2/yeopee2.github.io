@@ -92,6 +92,7 @@ Cancers 2022 <br>
 <span style="font-size: 18px; font-weight: bold;">
     <a href="https://programs.sigchi.org/uist/2025/program/content/209381" target="_blank">
       Silent Yet Expressive: Toward Seamless VR Communication through Emotion-aware Silent Speech Interfaces
+    </a> 
 </span><br>
 Yewon Min, Jiyeon Oh, <b>Jae-Yeop Jeong</b>, and Jin-Woo Jeong <br>
 Adjunct Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (<b>ACM UIST 2025</b> Adjunct) <br>
