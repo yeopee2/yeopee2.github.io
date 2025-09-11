@@ -174,7 +174,7 @@ ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b> LBR) <br>
 # Awards, Grants, and Honors
 <span style="font-size: 18px; font-weight: bold;">
     Research Fellowship Program for Doctoral Students 2025 <br>
-</span><br>
+</span>
 <ul>
     <li>National Research Foundation of Korea </li>
 <li>Proposal Title: Pointing Behavior Simulation Model in High Cognitive Load Environments via Computational Rationality: A Case Study Involving Moving Distractors </li>
@@ -182,7 +182,7 @@ ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b> LBR) <br>
 
 <span style="font-size: 18px; font-weight: bold;">
     Best Paper <br>
-</span><br>
+</span>
 <ul>
     <li>CHI 2025: 🏅 Honorable Mention Award </li>
     <li>IUI 2025: 🏅 Best Paper Award </li>
@@ -190,7 +190,7 @@ ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b> LBR) <br>
 
 <span style="font-size: 18px; font-weight: bold;">
     Outstanding Technology Award in Real-Challenge competition <br>
-</span><br>
+</span>
 <ul>
     <li>KIRD 2022 </li>
     <li>Product Title: Knock Knock </li>
@@ -198,7 +198,7 @@ ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b> LBR) <br>
 
 <span style="font-size: 18px; font-weight: bold;">
     <b>3rd place</b> in "Learning from Synthesis Data" Challenge <br>
-</span><br>
+</span>
 <ul>
     <li>ECCV 2022 </li>
     <li>Competition Title: 4th Workshop and Competition on Affective Behavior Analysis in-the-wild </li>
@@ -206,7 +206,7 @@ ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b> LBR) <br>
 
 <span style="font-size: 18px; font-weight: bold;">
     <b>Runner up</b> in Expression Classification Challenge <br>
-</span><br>
+</span>
 <ul>
     <li>CVPR 2022 </li>
     <li>Competition Title: 3rd Workshop and Competition on Affective Behavior Analysis in-the-wild </li>
