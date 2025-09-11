@@ -173,31 +173,47 @@ ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b> LBR) <br>
 
 # Awards, Grants, and Honors
 <span style="font-size: 18px; font-weight: bold;">
-    Research Fellowship Program for Doctoral Students <br>
-    National Research Foundation of Korea 
+    Research Fellowship Program for Doctoral Students 2025 <br>
 </span><br>
 <ul>
+    <li>National Research Foundation of Korea </li>
 <li>Proposal Title: Pointing Behavior Simulation Model in High Cognitive Load Environments via Computational Rationality: A Case Study Involving Moving Distractors </li>
 </ul>
+
 <span style="font-size: 18px; font-weight: bold;">
-    CHI 2025: 🏅 Honorable Mention Award
+    Best Paper <br>
 </span><br>
+<ul>
+    <li>CHI 2025: 🏅 Honorable Mention Award </li>
+    <li>IUI 2025: 🏅 Best Paper Award </li>
+</ul>
+
 <span style="font-size: 18px; font-weight: bold;">
-    IUI 2025: 🏅 Best Paper Award
+    Outstanding Technology Award in Real-Challenge competition <br>
 </span><br>
+<ul>
+    <li>KIRD 2022 </li>
+    <li>Product Title: Knock Knock </li>
+</ul>
+
 <span style="font-size: 18px; font-weight: bold;">
-    KIRD 2022: Outstanding Technology Award in Real-Challenge competition
+    <b>3rd place</b> in "Learning from Synthesis Data" Challenge <br>
 </span><br>
+<ul>
+    <li>ECCV 2022 </li>
+    <li>Competition Title: 4th Workshop and Competition on Affective Behavior Analysis in-the-wild </li>
+</ul>
+
 <span style="font-size: 18px; font-weight: bold;">
-    ECCV 2022: 4th Workshop and Competition on Affective Behavior Analysis in-the-wild
+    <b>Runner up</b> in Expression Classification Challenge <br>
 </span><br>
-<b>3rd place</b> in "Learning from Synthesis Data" Challenge <br>
-<span style="font-size: 18px; font-weight: bold;">
-    CVPR 2022: 3rd Workshop and Competition on Affective Behavior Analysis in-the-wild
-</span><br>
-<b>Runner up</b> in Expression Classification Challenge <br>
+<ul>
+    <li>CVPR 2022 </li>
+    <li>Competition Title: 3rd Workshop and Competition on Affective Behavior Analysis in-the-wil </li>
+</ul>
 
 <hr>
+
 # Academic Services
 <span style="font-size: 18px; font-weight: bold;">
     Reviewer
