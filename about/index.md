@@ -209,7 +209,7 @@ ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b> LBR) <br>
 </span><br>
 <ul>
     <li>CVPR 2022 </li>
-    <li>Competition Title: 3rd Workshop and Competition on Affective Behavior Analysis in-the-wil </li>
+    <li>Competition Title: 3rd Workshop and Competition on Affective Behavior Analysis in-the-wild </li>
 </ul>
 
 <hr>
