@@ -171,7 +171,12 @@ ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b> LBR) <br>
 
 <hr>
 
-# Awards
+# Awards, Grants, and Honors
+<span style="font-size: 18px; font-weight: bold;">
+    Research Fellowship Program for Doctoral Students
+    National Research Foundation of Korea 
+</span><br>
+<b>Proposal Title: Pointing Behavior Simulation Model in High Cognitive Load Environments via Computational Rationality: A Case Study Involving Moving Distractors <br>
 <span style="font-size: 18px; font-weight: bold;">
     CHI 2025: 🏅 Honorable Mention Award
 </span><br>
