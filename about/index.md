@@ -32,7 +32,7 @@ Human-Computer Interaction (HCI)
 </span><br>
 <b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
 ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b>) <br>
-🏅<span style="color: red;"><b>Honorable Mention Award at CHI 2025</b></span> <br>
+🏅<span style="color: red;"><b>Honorable Mention Award (Top 5%)</b></span> <br>
 
 
 <span style="font-size: 18px; font-weight: bold;">
@@ -51,7 +51,7 @@ ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b>) <br>
 </span><br>
 Lukianova Elizabeta, <b>Jae-Yeop Jeong</b>, and Jin-Woo Jeong <br>
 ACM Conference on Intelligent User Interfaces (<b>ACM IUI 2025</b>) <br> 
-🏅<span style="color: red;"><b>Best Paper Award at IUI 2025</b></span> <br>
+🏅<span style="color: red;"><b>Best Paper Award (Top 1%)</b></span> <br>
 
 <hr>
 
