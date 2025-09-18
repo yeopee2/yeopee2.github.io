@@ -84,7 +84,7 @@ Education and Information Technologies 2024 <b>(Top 2.8%)</b> <br>
   </a> 
 </span><br>
 Se-Woon Choe, Ha-Yeong Yoon, <b>Jae-Yeop Jeong</b>, Jinhyung Park, and Jin-Woo Jeong <br>
-Cancers 2022 <b>(Top 25.9%)</b> <br>
+Cancers 2022 <b>(Top 24.28%)</b> <br>
 
 <hr>
 
