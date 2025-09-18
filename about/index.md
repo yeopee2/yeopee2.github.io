@@ -61,14 +61,14 @@ ACM Conference on Intelligent User Interfaces (<b>ACM IUI 2025</b>) <br>
       Mitigating inappropriate concepts in text-to-image generation with attention-guided Image editing </a>
 </span><br>
 Jiyeon Oh, <b>Jae-Yeop Jeong</b>, Yeong-Gi Hong, and Jin-Woo Jeong <br>
- PeerJ Computer Science 2025 <br>
+ PeerJ Computer Science 2025 <b>(37.8%)</b> <br>
 
 <span style="font-size: 18px; font-weight: bold;">
   <a href="https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2348837" target="_blank"> 
       EchoTap: Non-Verbal Sound Interaction with Knock and Tap Gestures </a>
 </span><br>
 <b>Jae-Yeop Jeong</b>, Daun Kim, and Jin-Woo Jeong <br>
-International Journal of Human-Computer Interaction 2025 <br>
+International Journal of Human-Computer Interaction 2025 <b>(14.6%)</b> <br>
 
 <span style="font-size: 18px; font-weight: bold;">
   <a href="https://link.springer.com/article/10.1007/s10639-024-12697-w" target="_blank"> 
@@ -76,7 +76,7 @@ International Journal of Human-Computer Interaction 2025 <br>
   </a>
 </span><br>
 <b>Jae-Yeop Jeong</b>, Jiyeon Oh, and Jin-Woo Jeong <br>
-Education and Information Technologies 2024 <br>
+Education and Information Technologies 2024 <b>(2.8%)</b> <br>
 
 <span style="font-size: 18px; font-weight: bold;">
   <a href="https://www.mdpi.com/2072-6694/14/9/2224" target="_blank"> 
@@ -84,7 +84,7 @@ Education and Information Technologies 2024 <br>
   </a> 
 </span><br>
 Se-Woon Choe, Ha-Yeong Yoon, <b>Jae-Yeop Jeong</b>, Jinhyung Park, and Jin-Woo Jeong <br>
-Cancers 2022 <br>
+Cancers 2022 <b>(25.9%)</b> <br>
 
 <hr>
 
