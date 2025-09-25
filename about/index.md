@@ -10,7 +10,7 @@ comments: false
     <img src="/assets/img/제주도.jpg" alt="Profile Picture">
 </div>
 <br>
-<b>Jae-Yeop Jeong</b> is a Ph.D. student in Data Science of Seoul National University of Science and Technology (SeoulTech) directed by <a href="http://ixlab.seoultech.ac.kr" target="_blank">Jin-Woo Jeong</a> and supported by NRF Doctoral Student Research Fellowship. He earned his BSe degree at Kumoh National Institute of Technology (KIT) in 2021 and he was a researcher at Center for Immersive Media Research of Gumi Electronics ＆ Information Technology Research Institute (GERI) in 2020-2021. Please feel free to contact him (<b>jaey.jeong@seoultech.ac.kr</b>).
+<b>Jae-Yeop Jeong</b> is a Ph.D. student in Data Science of Seoul National University of Science and Technology (SeoulTech) directed by <a href="http://ixlab.seoultech.ac.kr" target="_blank">Jin-Woo Jeong</a> and supported by <a href="https://www.nrf.re.kr/page/378?menuNo=378" target="_blank">NRF Doctoral Student Research Fellowship</a> of South Korea. He earned his BSe degree at Kumoh National Institute of Technology (KIT) in 2021 and he was a researcher at Center for Immersive Media Research of Gumi Electronics ＆ Information Technology Research Institute (GERI) in 2020-2021. Please feel free to contact him (<b>jaey.jeong@seoultech.ac.kr</b>).
 
 # Research Interest
 <pre>
