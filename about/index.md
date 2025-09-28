@@ -90,7 +90,7 @@ Cancers 2022 <b>(Top 24.2%)</b> <br>
 
 ## Poster and Workshop
 <span style="font-size: 18px; font-weight: bold;">
-    <a href="https://programs.sigchi.org/uist/2025/program/content/209381" target="_blank">
+    <a href="https://dl.acm.org/doi/full/10.1145/3746058.3758359" target="_blank">
       Silent Yet Expressive: Toward Seamless VR Communication through Emotion-aware Silent Speech Interfaces
     </a> 
 </span><br>
