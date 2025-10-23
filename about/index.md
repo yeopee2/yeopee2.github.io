@@ -57,7 +57,6 @@ ACM Conference on Intelligent User Interfaces (<b>ACM IUI 2025</b>) <br>
 
 ## Journals
 <span style="font-size: 18px; font-weight: bold;">
-  <a href="https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2348837" target="_blank"> 
       Effect of Onset Position of Ray Casting in Virtual Reality </a>
 </span><br>
 <b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
