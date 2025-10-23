@@ -17,7 +17,7 @@ comments: false
 Human-Computer Interaction (HCI)
 │   ├── Human Motor Control
 │   │   ├── Theoretical and Empirical Modeling 
-│   │   └── Under standing Human Motor Behavior in Graphical User Interafaces
+│   │   └── Understanding Human Motor Behavior in Graphical User Interafaces
 │   └── Virtual Reality
 │   └── Reinforcement Learning based User Simulation
 </pre>
