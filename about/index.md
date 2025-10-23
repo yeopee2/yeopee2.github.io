@@ -22,6 +22,7 @@ Human-Computer Interaction (HCI)
 │       └── Parametric Input Devices, Techniques, and Systems
 </pre>
 
+<!--
 <h2 style="margin-top:32px;">News</h2>
 <div style="margin:12px 0 28px; padding:14px 16px; border:1px solid #e5e7eb; border-radius:12px; background:#f8fafc;">
   <span style="font-size:12px; font-weight:700; color:#0f766e; background:#d1fae5; padding:2px 8px; border-radius:9999px; vertical-align:middle;">Now</span>
@@ -30,7 +31,7 @@ Human-Computer Interaction (HCI)
     Staying in Canada for a research visit/collaborations. Open to meetups and academic discussions—feel free to reach out.
   </div>
 </div>
-
+-->
 
 # Publications
 ## Conferences
