@@ -57,6 +57,13 @@ ACM Conference on Intelligent User Interfaces (<b>ACM IUI 2025</b>) <br>
 
 ## Journals
 <span style="font-size: 18px; font-weight: bold;">
+  <a href="https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2348837" target="_blank"> 
+      Effect of Onset Position of Ray Casting in Virtual Reality </a>
+</span><br>
+<b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
+International Journal of Human-Computer Interaction 2025 <b>(Revision round 1)</b> <br>
+
+<span style="font-size: 18px; font-weight: bold;">
   <a href="https://peerj.com/articles/cs-3170/" target="_blank"> 
       Mitigating inappropriate concepts in text-to-image generation with attention-guided Image editing </a>
 </span><br>
