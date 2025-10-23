@@ -49,7 +49,7 @@ Human-Computer Interaction (HCI)
 
 ## 📘 Publications
 <div style="background:#fff7ed; border-left:5px solid #f97316; border-radius:8px; padding:16px 20px; margin-bottom:20px;">
-  <h3>Conferences</h3>
+  <h3>🧾 Conferences</h3>
 </div>
 
 <span style="font-size: 18px; font-weight: bold;">
@@ -82,9 +82,8 @@ ACM Conference on Intelligent User Interfaces (<b>ACM IUI 2025</b>) <br>
 
 <hr>
 
-## 🧾 Journals
 <div style="background:#eff6ff; border-left:5px solid #2563eb; border-radius:8px; padding:16px 20px; margin-bottom:20px;">
-  <h3>Journals</h3>
+  <h3>🧾 Journals</h3>
 </div>
 <span style="font-size: 18px; font-weight: bold;">
       Effect of Onset Position of Ray Casting in Virtual Reality
@@ -124,9 +123,8 @@ Cancers 2022 <b>(Top 24.2%)</b> <br>
 
 <hr>
 
-## 🧩 Poster & Workshop
 <div style="background:#fefce8; border-left:5px solid #ca8a04; border-radius:8px; padding:16px 20px; margin-bottom:20px;">
-  <h3>Poster and Workshop</h3>
+  <h3>🧩 Poster and Workshop</h3>
 </div>
 <span style="font-size: 18px; font-weight: bold;">
     <a href="https://dl.acm.org/doi/full/10.1145/3746058.3758359" target="_blank">
