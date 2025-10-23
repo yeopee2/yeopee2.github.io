@@ -22,6 +22,15 @@ Human-Computer Interaction (HCI)
 │       └── Parametric Input Devices, Techniques, and Systems
 </pre>
 
+<h2 style="margin-top:32px;">News</h2>
+<div style="margin:12px 0 28px; padding:14px 16px; border:1px solid #e5e7eb; border-radius:12px; background:#f8fafc;">
+  <span style="font-size:12px; font-weight:700; color:#0f766e; background:#d1fae5; padding:2px 8px; border-radius:9999px; vertical-align:middle;">Now</span>
+  <span style="margin-left:8px; font-weight:600;">Currently in Canada (Vancouver)</span>
+  <div style="color:#475569; margin-top:6px; line-height:1.5;">
+    Staying in Canada for a research visit/collaborations. Open to meetups and academic discussions—feel free to reach out.
+  </div>
+</div>
+
 
 # Publications
 ## Conferences
@@ -59,7 +68,7 @@ ACM Conference on Intelligent User Interfaces (<b>ACM IUI 2025</b>) <br>
 <span style="font-size: 18px; font-weight: bold;">
       Effect of Onset Position of Ray Casting in Virtual Reality
 </span><br>
-<b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
+<b>Jae-Yeop Jeong</b>, Sumin Hong, and Jin-Woo Jeong <br>
 International Journal of Human-Computer Interaction 2025 <b>(Revision Round 1)</b> <br>
 
 <span style="font-size: 18px; font-weight: bold;">
