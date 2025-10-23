@@ -15,11 +15,11 @@ comments: false
 # Research Interest
 <pre>
 Human-Computer Interaction (HCI)
-│   ├── Computational Interaction
-│   │   ├── Fitts' Law, Steering Law, and Beyond
-│   │   └── User Simulation for GUI operations
-│   └── Advanced User Interfaces
-│       └── Parametric Input Devices, Techniques, and Systems
+│   ├── Human Motor Control
+│   │   ├── Theoretical and Empirical Modeling 
+│   │   └── Under standing Human Motor Behavior in Graphical User Interafaces
+│   └── Virtual Reality
+│   └── Reinforcement Learning based User Simulation
 </pre>
 
 <!--
