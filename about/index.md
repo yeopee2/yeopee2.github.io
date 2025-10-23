@@ -7,37 +7,51 @@ comments: false
 ---
 
 <div style="text-align: center;">
-    <img src="/assets/img/제주도.jpg" alt="Profile Picture">
+  <img src="/assets/img/제주도.jpg" alt="Profile Picture" style="border-radius: 10px; max-width: 80%; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 </div>
 <br>
-<b>Jae-Yeop Jeong</b> is a Ph.D. student in Data Science of Seoul National University of Science and Technology (SeoulTech) directed by <a href="http://ixlab.seoultech.ac.kr" target="_blank">Jin-Woo Jeong</a> and supported by <a href="https://www.nrf.re.kr/page/378?menuNo=378" target="_blank">NRF Research Grant for Ph.D. Students</a> of South Korea. He earned his BSe degree at Kumoh National Institute of Technology (KIT) in 2021 and he was a researcher at Center for Immersive Media Research of Gumi Electronics ＆ Information Technology Research Institute (GERI) in 2020-2021. Please feel free to contact him (<b>jaey.jeong@seoultech.ac.kr</b>).
 
-# Research Interest
-<pre style="margin:14px 0 28px; padding:18px 20px; background:#f8fafc; border-left:6px solid #0f766e; border-radius:8px; font-family:monospace; line-height:1.5; color:#1e293b; white-space:pre;">
+<p style="font-size: 16px; line-height: 1.7;">
+  <b>Jae-Yeop Jeong</b> is a Ph.D. student in Data Science at Seoul National University of Science and Technology (SeoulTech), supervised by 
+  <a href="http://ixlab.seoultech.ac.kr" target="_blank">Jin-Woo Jeong</a>, and supported by the 
+  <a href="https://www.nrf.re.kr/page/378?menuNo=378" target="_blank">NRF Research Grant for Ph.D. Students</a> of South Korea. 
+  He earned his B.S. degree at Kumoh National Institute of Technology (KIT) in 2021 and worked as a researcher at the 
+  Center for Immersive Media Research of Gumi Electronics & Information Technology Research Institute (GERI) in 2020–2021.
+  <br><br>
+  📧 <b>jaey.jeong@seoultech.ac.kr</b>
+</p>
+
+---
+
+## 🧠 Research Interest
+<div style="margin:14px 0 28px; padding:18px 20px; background:#f8fafc; border-left:6px solid #0f766e; border-radius:8px; font-family:monospace; line-height:1.5; color:#1e293b; white-space:pre;">
 Human-Computer Interaction (HCI)
 │   ├── Human Motor Control
 │   │   ├── Theoretical and Empirical Modeling 
 │   │   └── Understanding Human Motor Behavior in Graphical User Interfaces
 │   ├── Virtual Reality
 │   └── Reinforcement Learning based User Simulation
-</pre>
+</div>
 
+---
 
-
-
-<!--
-<h2 style="margin-top:32px;">News</h2>
-<div style="margin:12px 0 28px; padding:14px 16px; border:1px solid #e5e7eb; border-radius:12px; background:#f8fafc;">
-  <span style="font-size:12px; font-weight:700; color:#0f766e; background:#d1fae5; padding:2px 8px; border-radius:9999px; vertical-align:middle;">Now</span>
+## 🌍 News
+<div style="margin:12px 0 28px; padding:14px 16px; border:1px solid #e5e7eb; border-radius:12px; background:#f0fdf4;">
+  <span style="font-size:12px; font-weight:700; color:#15803d; background:#dcfce7; padding:2px 8px; border-radius:9999px;">Now</span>
   <span style="margin-left:8px; font-weight:600;">Currently in Canada (Vancouver)</span>
-  <div style="color:#475569; margin-top:6px; line-height:1.5;">
-    Staying in Canada for a research visit/collaborations. Open to meetups and academic discussions—feel free to reach out.
+  <div style="color:#374151; margin-top:6px; line-height:1.6;">
+    Staying in Canada for a research visit and academic collaboration.  
+    Open to meetings and discussions—feel free to reach out!
   </div>
 </div>
--->
 
-# Publications
-## Conferences
+---
+
+## 📘 Publications
+<div style="background:#fff7ed; border-left:5px solid #f97316; border-radius:8px; padding:16px 20px; margin-bottom:20px;">
+  <h3>Conferences</h3>
+</div>
+
 <span style="font-size: 18px; font-weight: bold;">
   <a href="https://doi.org/10.1145/3706598.3713410" target="_blank">
     Understanding User Behavior in Window Selection using Dragging for Multiple Targets
@@ -45,7 +59,7 @@ Human-Computer Interaction (HCI)
 </span><br>
 <b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
 ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b>) <br>
-🏅<span style="color: red;"><b>Honorable Mention Award (Top 5%)</b></span> <br>
+🏅<span style="color: red;"><b>Honorable Mention Award (Top 5%)</b></span> <br><br>
 
 
 <span style="font-size: 18px; font-weight: bold;">
@@ -68,7 +82,10 @@ ACM Conference on Intelligent User Interfaces (<b>ACM IUI 2025</b>) <br>
 
 <hr>
 
-## Journals
+## 🧾 Journals
+<div style="background:#eff6ff; border-left:5px solid #2563eb; border-radius:8px; padding:16px 20px; margin-bottom:20px;">
+  <h3>Journals</h3>
+</div>
 <span style="font-size: 18px; font-weight: bold;">
       Effect of Onset Position of Ray Casting in Virtual Reality
 </span><br>
@@ -107,7 +124,10 @@ Cancers 2022 <b>(Top 24.2%)</b> <br>
 
 <hr>
 
-## Poster and Workshop
+## 🧩 Poster & Workshop
+<div style="background:#fefce8; border-left:5px solid #ca8a04; border-radius:8px; padding:16px 20px; margin-bottom:20px;">
+  <h3>Poster and Workshop</h3>
+</div>
 <span style="font-size: 18px; font-weight: bold;">
     <a href="https://dl.acm.org/doi/full/10.1145/3746058.3758359" target="_blank">
       Silent Yet Expressive: Toward Seamless VR Communication through Emotion-aware Silent Speech Interfaces
@@ -190,7 +210,10 @@ ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b> LBR) <br>
 
 <hr>
 
-# Awards, Grants, and Honors
+## 🏆 Awards, Grants, and Honors
+<div style="background:#fdf4ff; border-left:5px solid #a21caf; border-radius:8px; padding:16px 20px; margin-bottom:20px;">
+  <h3>Awards & Grants</h3>
+</div>
 <span style="font-size: 18px; font-weight: bold;">
     Research Grant for Ph.D. Students 2025 <br>
 </span>
@@ -233,7 +256,7 @@ ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b> LBR) <br>
 
 <hr>
 
-# Academic Services
+## 🧩 Academic Services
 <span style="font-size: 18px; font-weight: bold;">
     Reviewer
 </span><br>
