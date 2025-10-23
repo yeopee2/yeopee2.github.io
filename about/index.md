@@ -13,14 +13,15 @@ comments: false
 <b>Jae-Yeop Jeong</b> is a Ph.D. student in Data Science of Seoul National University of Science and Technology (SeoulTech) directed by <a href="http://ixlab.seoultech.ac.kr" target="_blank">Jin-Woo Jeong</a> and supported by <a href="https://www.nrf.re.kr/page/378?menuNo=378" target="_blank">NRF Research Grant for Ph.D. Students</a> of South Korea. He earned his BSe degree at Kumoh National Institute of Technology (KIT) in 2021 and he was a researcher at Center for Immersive Media Research of Gumi Electronics ＆ Information Technology Research Institute (GERI) in 2020-2021. Please feel free to contact him (<b>jaey.jeong@seoultech.ac.kr</b>).
 
 # Research Interest
-<pre>
+<div style="margin:14px 0 28px; padding:18px 20px; background:#f8fafc; border-left:6px solid #0f766e; border-radius:8px; font-family:monospace; white-space:pre; line-height:1.5; color:#1e293b;">
 Human-Computer Interaction (HCI)
 │   ├── Human Motor Control
 │   │   ├── Theoretical and Empirical Modeling 
-│   │   └── Understanding Human Motor Behavior in Graphical User Interafaces
-│   └── Virtual Reality
+│   │   └── Understanding Human Motor Behavior in Graphical User Interfaces
+│   ├── Virtual Reality
 │   └── Reinforcement Learning based User Simulation
-</pre>
+</div>
+
 
 <!--
 <h2 style="margin-top:32px;">News</h2>
