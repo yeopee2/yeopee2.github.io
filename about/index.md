@@ -236,6 +236,13 @@ ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b> LBR) <br>
 
 <hr>
 
+# Teaching
+<span style="font-size: 18px; font-weight: bold;">
+    Guest Lecture
+</span><br>
+Human Motor Contorl, IISE and DS, SeoulTech, Oct. 2025
+
+
 # Academic Services
 <span style="font-size: 18px; font-weight: bold;">
     Reviewer
