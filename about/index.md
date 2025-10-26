@@ -242,6 +242,7 @@ ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b> LBR) <br>
 </span><br>
 Human Motor Contorl, IISE and DS, SeoulTech, Oct. 2025
 
+<hr>
 
 # Academic Services
 <span style="font-size: 18px; font-weight: bold;">
