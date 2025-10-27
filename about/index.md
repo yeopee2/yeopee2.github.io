@@ -248,8 +248,8 @@ Human Motor Contorl, IISE and DS, SeoulTech, Oct. 2025
 <span style="font-size: 18px; font-weight: bold;">
     Reviewer
 </span><br>
-2026: CHI <br>
-2025: CHI Play WIP, CHI LBW, ICMI LBR, SUI, IEEE VR <br>
+2026: CHI, IEEE VR  <br>
+2025: CHI Play WIP, CHI LBW, ICMI LBR, SUI <br>
 2024: ICMI LBR <br>
 
 <span style="font-size: 18px; font-weight: bold;">
