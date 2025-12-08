@@ -79,6 +79,12 @@ ACM Conference on Intelligent User Interfaces (<b>ACM IUI 2025</b>) <br>
 <b>Jae-Yeop Jeong</b>, Jiwon Lee, Euna Byun and Jin-Woo Jeong <br>
 International Journal of Human-Computer Studies 2025 <b>(Submitted)</b> <br>
 
+<span style="font-size: 18px; font-weight: bold;">
+      Effect of Onset Position in Bare-Hand Ray Casting
+</span><br>
+<b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
+Human Factors 2025 <b>(Under Review)</b> <br>
+
 
 <span style="font-size: 18px; font-weight: bold;">
       Effect of Onset Position of Ray Casting in Virtual Reality
