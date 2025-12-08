@@ -73,6 +73,14 @@ ACM Conference on Intelligent User Interfaces (<b>ACM IUI 2025</b>) <br>
 
 ## Journals
 <span style="font-size: 18px; font-weight: bold;">
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5813440" target="_blank"> 
+      Effect of Distractor on Temporal Target Selection
+</span><br>
+<b>Jae-Yeop Jeong</b>, Jiwon Lee, Euna Byun and Jin-Woo Jeong <br>
+International Journal of Human-Computer Studies 2025 <b>(Submitted)</b> <br>
+
+
+<span style="font-size: 18px; font-weight: bold;">
       Effect of Onset Position of Ray Casting in Virtual Reality
 </span><br>
 <b>Jae-Yeop Jeong</b>, Sumin Hong, and Jin-Woo Jeong <br>
