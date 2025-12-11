@@ -90,7 +90,7 @@ Human Factors 2025 <b>(Under Review)</b> <br>
       Effect of Onset Position of Ray Casting in Virtual Reality
 </span><br>
 <b>Jae-Yeop Jeong</b>, Sumin Hong, and Jin-Woo Jeong <br>
-International Journal of Human-Computer Interaction 2025 <b>(Revision Round 1)</b> <br>
+International Journal of Human-Computer Interaction 2025 <b>(Conditionally Accepted (Minor Revision); Top 14%)</b> <br>
 
 <span style="font-size: 18px; font-weight: bold;">
   <a href="https://peerj.com/articles/cs-3170/" target="_blank"> 
@@ -104,7 +104,7 @@ Jiyeon Oh, <b>Jae-Yeop Jeong</b>, Yeong-Gi Hong, and Jin-Woo Jeong <br>
       EchoTap: Non-Verbal Sound Interaction with Knock and Tap Gestures </a>
 </span><br>
 <b>Jae-Yeop Jeong</b>, Daun Kim, and Jin-Woo Jeong <br>
-International Journal of Human-Computer Interaction 2025 <b>(Top 14.6%)</b> <br>
+International Journal of Human-Computer Interaction 2025 <b>(Top 14%)</b> <br>
 
 <span style="font-size: 18px; font-weight: bold;">
   <a href="https://link.springer.com/article/10.1007/s10639-024-12697-w" target="_blank"> 
