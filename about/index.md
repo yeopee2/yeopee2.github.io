@@ -254,7 +254,7 @@ ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b> LBR) <br>
 <span style="font-size: 18px; font-weight: bold;">
     Invited Talk
 </span><br>
-Understanding User Behavior in Window Selection using Dragging for Multiple Targets, Top Conference Session, KCC, July. 2025
+Understanding User Behavior in Window Selection using Dragging for Multiple Targets, Top Conference Session, KCC, July. 2025 <br>
 
 <span style="font-size: 18px; font-weight: bold;">
     Guest Lecture
