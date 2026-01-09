@@ -209,28 +209,28 @@ ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b> LBR) <br>
 
 # Awards, Grants, and Honors
 <span style="font-size: 18px; font-weight: bold;">
-    Outstanding Award in the DS Interface Program<br>
-</span>
-<ul>
-    <li>Brain Korea 21 (BK21) Data Science and Business Potential Education & Research Group, SeoulTech, 2025</li>
-    <li>Interface Title: Human Motor Control</li>
-</ul>
-
-
-<span style="font-size: 18px; font-weight: bold;">
-    Research Grant for Ph.D. Students 2025 <br>
-</span>
-<ul>
-    <li>National Research Foundation of Korea </li>
-<li>Proposal Title: Pointing Behavior Simulation Model in High Cognitive Load Environments via Computational Rationality: A Case Study Involving Moving Distractors </li>
-</ul>
-
-<span style="font-size: 18px; font-weight: bold;">
     Best Paper <br>
 </span>
 <ul>
     <li>CHI 2025: 🏅 Honorable Mention Award </li>
     <li>IUI 2025: 🏅 Best Paper Award </li>
+</ul>
+
+<span style="font-size: 18px; font-weight: bold;">
+    Outstanding Award in the DS Interface Program<br>
+</span>
+<ul>
+    <li>Brain Korea 21 (BK21) Data Science and Business Potential Education & Research Group, SeoulTech, Jan, 2026</li>
+    <li>Interface Title: Human Motor Control</li>
+</ul>
+
+
+<span style="font-size: 18px; font-weight: bold;">
+    Research Grant for Ph.D. Students <br>
+</span>
+<ul>
+    <li>National Research Foundation of Korea, Sep 2025-Aug 2026 </li>
+<li>Proposal Title: Pointing Behavior Simulation Model in High Cognitive Load Environments via Computational Rationality: A Case Study Involving Moving Distractors </li>
 </ul>
 
 <span style="font-size: 18px; font-weight: bold;">
