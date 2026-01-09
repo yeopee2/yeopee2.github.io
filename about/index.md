@@ -209,6 +209,15 @@ ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b> LBR) <br>
 
 # Awards, Grants, and Honors
 <span style="font-size: 18px; font-weight: bold;">
+    Outstanding Award in the DS Interface Program<br>
+</span>
+<ul>
+    <li>Brain Korea 21 (BK21) Data Science and Business Potential Education & Research Group, SeoulTech, 2025</li>
+    <li>Interface Title: Human Motor Control</li>
+</ul>
+
+
+<span style="font-size: 18px; font-weight: bold;">
     Research Grant for Ph.D. Students 2025 <br>
 </span>
 <ul>
