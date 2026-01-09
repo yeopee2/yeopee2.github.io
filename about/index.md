@@ -220,16 +220,15 @@ ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b> LBR) <br>
     Outstanding Award in the DS Interface Program<br>
 </span>
 <ul>
-    <li>Brain Korea 21 (BK21) Data Science and Business Potential Education & Research Group, SeoulTech, Jan, 2026</li>
+    <li>Brain Korea 21 (BK21) Data Science and Business Potential Education & Research Group, SeoulTech, 2026</li>
     <li>Interface Title: Human Motor Control</li>
 </ul>
-
 
 <span style="font-size: 18px; font-weight: bold;">
     Research Grant for Ph.D. Students <br>
 </span>
 <ul>
-    <li>National Research Foundation of Korea, Sep 2025-Aug 2026 </li>
+    <li>National Research Foundation of Korea, 2025-2026 </li>
 <li>Proposal Title: Pointing Behavior Simulation Model in High Cognitive Load Environments via Computational Rationality: A Case Study Involving Moving Distractors </li>
 </ul>
 
@@ -263,12 +262,12 @@ ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b> LBR) <br>
 <span style="font-size: 18px; font-weight: bold;">
     Invited Talk
 </span><br>
-Understanding User Behavior in Window Selection using Dragging for Multiple Targets, Top Conference Session, KCC, July. 2025 <br>
+Understanding User Behavior in Window Selection using Dragging for Multiple Targets, Top Conference Session, KCC 2025 <br>
 
 <span style="font-size: 18px; font-weight: bold;">
     Guest Lecture
 </span><br>
-Human Motor Contorl, IISE and DS, SeoulTech, Oct. 2025
+Human Motor Contorl, IISE and DS, SeoulTech, 2025
 
 <hr>
 
