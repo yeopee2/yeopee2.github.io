@@ -42,6 +42,13 @@ Human-Computer Interaction (HCI)
 # Publications
 ## Conferences
 <span style="font-size: 18px; font-weight: bold;">
+    Conditionally Accepted Regular Paper
+  </a>
+</span><br>
+<b>Jae-Yeop Jeong, Author(s), ... <br>
+ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2026</b>) <br>
+
+<span style="font-size: 18px; font-weight: bold;">
   <a href="https://doi.org/10.1145/3706598.3713410" target="_blank">
     Understanding User Behavior in Window Selection using Dragging for Multiple Targets
   </a>
