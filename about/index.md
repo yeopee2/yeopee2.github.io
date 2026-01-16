@@ -43,7 +43,6 @@ Human-Computer Interaction (HCI)
 ## Conferences
 <span style="font-size: 18px; font-weight: bold;">
     Conditionally Accepted Regular Paper
-  </a>
 </span><br>
 <b>Jae-Yeop Jeong, Author(s), ... <br>
 ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2026</b>) <br>
