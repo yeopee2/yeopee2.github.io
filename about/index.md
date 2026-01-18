@@ -42,9 +42,9 @@ Human-Computer Interaction (HCI)
 # Publications
 ## Conferences
 <span style="font-size: 18px; font-weight: bold;">
-    Conditionally Accepted Regular Paper
+    (Cond. Accept) Steering through a Dynamically Varying Path
 </span><br>
-<b>Jae-Yeop Jeong</b>, Author(s), ... <br>
+<b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
 ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2026</b>) <br>
 
 <span style="font-size: 18px; font-weight: bold;">
