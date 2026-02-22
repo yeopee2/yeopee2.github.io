@@ -132,6 +132,27 @@ Cancers 2022 <b>(Top 24.2%)</b> <br>
 
 ## Poster and Workshop
 <span style="font-size: 18px; font-weight: bold;">
+      (Cond. Accept) Investigating the Impact of Lying Postures on Mixed Reality Interaction
+  </a> 
+</span><br>
+Yujin Jeong, Jiwon Lee, <b>Jae-Yeop Jeong</b>, Euna Byun, HyeokJu Ko, and Jin-Woo Jeong <br>
+Extended Abstracts of ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2026</b> Poster) <br>
+
+<span style="font-size: 18px; font-weight: bold;">
+      (Cond. Accept) Knight Path: Supporting Player Sense-making in Game Narratives via Visual Scaffolding and Spoiler-Aware AI
+  </a> 
+</span><br>
+Euna Byun, <b>Jae-Yeop Jeong</b>, Yewon Min, and Jin-Woo Jeong <br>
+Extended Abstracts of ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2026</b> Poster) <br>
+
+<span style="font-size: 18px; font-weight: bold;">
+      (Cond. Accept) How Video See-Through MR Affects Pointing on Physical Devices: From Smartphones to Large Monitors
+  </a> 
+</span><br>
+Yujin Jeong, <b>Jae-Yeop Jeong</b>, HyeokJu Ko, and Jin-Woo Jeong <br>
+Extended Abstracts of ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2026</b> Poster) <br>
+
+<span style="font-size: 18px; font-weight: bold;">
     <a href="https://dl.acm.org/doi/full/10.1145/3746058.3758359" target="_blank">
       Silent Yet Expressive: Toward Seamless VR Communication through Emotion-aware Silent Speech Interfaces
     </a> 
