@@ -83,7 +83,7 @@ ACM Conference on Intelligent User Interfaces (<b>ACM IUI 2025</b>) <br>
       Effect of Distractor on Temporal Target Selection </a>
 </span><br>
 <b>Jae-Yeop Jeong</b>, Jiwon Lee, Euna Byun and Jin-Woo Jeong <br>
-International Journal of Human-Computer Studies 2025 <b>(Under Review)</b> <br>
+TBD <br>
 
 <span style="font-size: 18px; font-weight: bold;">
       Effect of Onset Position in Bare-Hand Ray Casting
