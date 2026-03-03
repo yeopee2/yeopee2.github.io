@@ -42,7 +42,7 @@ Human-Computer Interaction (HCI)
 # Publications
 ## Conferences
 <span style="font-size: 18px; font-weight: bold;">
-    (Cond. Accept) Steering through a Dynamically Varying Path
+    Steering through a Dynamically Varying Path
 </span><br>
 <b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
 ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2026</b>) <br>
@@ -132,19 +132,19 @@ Cancers 2022 <b>(Top 24.2%)</b> <br>
 
 ## Poster and Workshop
 <span style="font-size: 18px; font-weight: bold;">
-      (Cond. Accept) Knight Path: Supporting Player Sense-making in Game Narratives via Visual Scaffolding and Spoiler-Aware AI
+      Knight Path: Supporting Player Sense-making in Game Narratives via Visual Scaffolding and Spoiler-Aware AI
 </span><br>
 Euna Byun, <b>Jae-Yeop Jeong</b>, Yewon Min, and Jin-Woo Jeong <br>
 Extended Abstracts of ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2026</b> Poster) <br>
 
 <span style="font-size: 18px; font-weight: bold;">
-      (Cond. Accept) Investigating the Impact of Lying Postures on Mixed Reality Interaction
+      Investigating the Impact of Lying Postures on Mixed Reality Interaction
 </span><br>
 Yujin Jeong, Jiwon Lee, <b>Jae-Yeop Jeong</b>, Euna Byun, HyeokJu Ko, and Jin-Woo Jeong <br>
 Extended Abstracts of ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2026</b> Poster) <br>
 
 <span style="font-size: 18px; font-weight: bold;">
-      (Cond. Accept) How Video See-Through MR Affects Pointing on Physical Devices: From Smartphones to Large Monitors
+      How Video See-Through MR Affects Pointing on Physical Devices: From Smartphones to Large Monitors
 </span><br>
 Yujin Jeong, <b>Jae-Yeop Jeong</b>, HyeokJu Ko, and Jin-Woo Jeong <br>
 Extended Abstracts of ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2026</b> Poster) <br>
