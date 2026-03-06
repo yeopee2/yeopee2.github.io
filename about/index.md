@@ -94,7 +94,8 @@ Human Factors 2025 <b>(Under Review)</b> <br>
 
 
 <span style="font-size: 18px; font-weight: bold;">
-      Effect of Onset Position of Ray Casting in Virtual Reality
+    <a href="https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2631680" target="_blank"> 
+      Effect of Onset Position of Ray Casting in Virtual Reality </a>
 </span><br>
 <b>Jae-Yeop Jeong</b>, Sumin Hong, and Jin-Woo Jeong <br>
 International Journal of Human-Computer Interaction 2025 <b>(To Appear; Top 14%)</b> <br>
