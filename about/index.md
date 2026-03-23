@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  About Jae-Yeop
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+tags: [Jae-Yeop Jeong, 정재엽, HCI, SeoulTech, 서울과기대, 서울과학기술대학교]
+date: 2026-03-23
 comments: false
 ---
 
