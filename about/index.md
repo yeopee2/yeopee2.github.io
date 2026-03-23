@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Jae-Yeop Jeong
+title:  About Jae-Yeop
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
