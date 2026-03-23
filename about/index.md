@@ -91,7 +91,7 @@ TBD <br>
       Effect of Onset Position of Ray Casting in Virtual Reality </a>
 </span><br>
 <b>Jae-Yeop Jeong</b>, Sumin Hong, and Jin-Woo Jeong <br>
-International Journal of Human-Computer Interaction 2025 <b>(To Appear; Top 14%)</b> <br>
+International Journal of Human-Computer Interaction 2025 <b>(Top 14%)</b> <br>
 
 <span style="font-size: 18px; font-weight: bold;">
   <a href="https://peerj.com/articles/cs-3170/" target="_blank"> 
