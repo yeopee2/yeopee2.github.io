@@ -9,29 +9,30 @@ layout: compress
 <head>
     {% include head.html %}
     <style>
-       
         .profile-image {
-            width: 200px;         
-            height: 250px;         
-            object-fit: cover;    
-            display: block;       
-            margin: 0 auto;       
-            border-radius: 0;     
+            width: 200px;
+            height: 250px;
+            object-fit: cover;
+            display: block;
+            margin: 0 auto;
+            border-radius: 0;
         }
 
         /* 이메일 스타일을 위한 CSS */
         .email-address {
-            font-size: 0.8rem;         
-            color: #555;               
-            margin-top: 5px;           
-            text-align: center;       
+            font-size: 0.8rem;
+            color: #555;
+            margin-top: 5px;
+            text-align: center;
         }
+
         .email-address a {
-            color: #555;               
-            text-decoration: none;     
+            color: #555;
+            text-decoration: none;
         }
+
         .email-address a:hover {
-            text-decoration: underline; 
+            text-decoration: underline;
         }
 
         /* 헤더 내부 요소 중앙 정렬 */
@@ -66,14 +67,29 @@ layout: compress
         .btn.zoombtn {
             margin-top: 10px;
             padding: 10px 20px;
-            background-color: 
+            background-color: #444;
             color: #fff;
             text-decoration: none;
             border-radius: 5px;
             transition: background-color 0.3s;
+            display: inline-block;
         }
+
         .btn.zoombtn:hover {
-            background-color: 
+            background-color: #222;
+        }
+
+        /* About Me / CV 버튼 나란히 배치 */
+        .button-group {
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+            flex-wrap: wrap;
+            margin-top: 10px;
+        }
+
+        .button-group .title {
+            margin: 0;
         }
     </style>
 </head>
@@ -85,29 +101,45 @@ layout: compress
                 <a href="{{ site.url }}">
                     <img src="{{ site.logo }}" alt="Jae-Yeop Jeong's Profile Picture" class="profile-image">
                 </a>
+
                 <h3 class="title">
                     <a class="zoombtn" href="{{ site.url }}">
                         <p style="font-size:1.2rem; font-weight:300;">{{ site.title }}</p>
                     </a>
                 </h3>
+
                 <p class="email-address">
                 </p>
+
                 <hr class="hr-line">
+
                 <h3 class="title">
                     <a href="{{ site.url }}">
                         <p style="font-size:1rem; font-weight:300;">{{ site.bio }}</p>
                     </a>
                 </h3>
+
                 {% include social-links.html %}
+
                 <hr class="hr-line">
-                <h3 class="title">
-                    <a class="btn zoombtn" href="{{ site.url }}/about">
-                        About Me
-                    </a>
-                </h3>
+
+                <div class="button-group">
+                    <h3 class="title">
+                        <a class="btn zoombtn" href="{{ site.url }}/about">
+                            About Me
+                        </a>
+                    </h3>
+
+                    <h3 class="title">
+                        <a class="btn zoombtn" href="{{ site.url }}/assets/cv/cv.pdf" target="_blank" rel="noopener noreferrer">
+                            CV
+                        </a>
+                    </h3>
+                </div>
             </div>
         </div>
     </header>
+
     {% include scripts.html %}
 </body>
 </html>
