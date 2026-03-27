@@ -40,13 +40,25 @@ Human-Computer Interaction (HCI)
 
 # Publications
 ## Conferences
-<span style="font-size: 18px; font-weight: bold;">
-    <a href="https://programs.sigchi.org/chi/2026/program/content/222484" target="_blank">
-    Steering through a Dynamically Varying Path
-    </a>
-</span><br>
-<b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
-ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2026</b>) <br>
+<div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 20px;">
+  
+  <!-- 왼쪽 overview 이미지 -->
+  <img src="/assets/images/overview-steering.png" 
+       alt="Overview figure for Steering through a Dynamically Varying Path"
+       style="width: 120px; height: 120px; object-fit: cover; border: 1px solid #ccc; border-radius: 6px;">
+
+  <!-- 오른쪽 텍스트 -->
+  <div>
+    <span style="font-size: 18px; font-weight: bold;">
+      <a href="https://programs.sigchi.org/chi/2026/program/content/222484" target="_blank">
+        Steering through a Dynamically Varying Path
+      </a>
+    </span><br>
+    <b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
+    ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2026</b>)
+  </div>
+
+</div>
 
 <span style="font-size: 18px; font-weight: bold;">
   <a href="https://doi.org/10.1145/3706598.3713410" target="_blank">
