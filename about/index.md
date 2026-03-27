@@ -63,7 +63,7 @@ Human-Computer Interaction (HCI)
 <div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 20px;">
   
   <!-- 왼쪽 overview 이미지 -->
-  <img src="/assets/img/chi26_dragging.png" 
+  <img src="/assets/img/chi25_dragging.png" 
        alt="Overview figure for Steering through a Dynamically Varying Path"
        style="width: 120px; height: 120px; object-fit: cover; border: 1px solid #ccc; border-radius: 6px;">
 
