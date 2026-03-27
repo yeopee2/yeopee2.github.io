@@ -40,43 +40,24 @@ Human-Computer Interaction (HCI)
 
 # Publications
 ## Conferences
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 20px;">
-  
-  <img src="/assets/img/chi26_steering.png" 
-       alt="Overview figure for Steering through a Dynamically Varying Path"
-       style="width: 120px; height: 120px; object-fit: cover; border: 1px solid #ccc; border-radius: 6px;">
+<span style="font-size: 18px; font-weight: bold;">
+  <a href="https://programs.sigchi.org/chi/2026/program/content/222484" target="_blank">
+    Steering through a Dynamically Varying Path
+  </a>
+</span><br>
+<b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
+ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2026</b>)<br>
 
-  <div style="min-height: 120px;">
-    <span style="font-size: 18px; font-weight: bold;">
-      <a href="https://programs.sigchi.org/chi/2026/program/content/222484" target="_blank">
-        Steering through a Dynamically Varying Path
-      </a>
-    </span><br>
-    <b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
-    ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2026</b>)<br>
-    &nbsp;
-  </div>
 
-</div>
+<span style="font-size: 18px; font-weight: bold;">
+  <a href="https://doi.org/10.1145/3706598.3713410" target="_blank">
+    Understanding User Behavior in Window Selection using Dragging for Multiple Targets
+  </a>
+</span><br>
+<b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
+ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b>) <br>
+🏅<span style="color: red;"><b>Honorable Mention Award (Top 5%)</b></span>
 
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 20px;">
-  
-  <img src="/assets/img/chi25_dragging.png" 
-       alt="Overview figure for Understanding User Behavior in Window Selection using Dragging for Multiple Targets"
-       style="width: 120px; height: 120px; object-fit: cover; border: 1px solid #ccc; border-radius: 6px;">
-
-  <div style="min-height: 120px;">
-    <span style="font-size: 18px; font-weight: bold;">
-      <a href="https://doi.org/10.1145/3706598.3713410" target="_blank">
-        Understanding User Behavior in Window Selection using Dragging for Multiple Targets
-      </a>
-    </span><br>
-    <b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
-    ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2025</b>) <br>
-    🏅<span style="color: red;"><b>Honorable Mention Award (Top 5%)</b></span>
-  </div>
-
-</div>
 
 
 <span style="font-size: 18px; font-weight: bold;">
