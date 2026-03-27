@@ -68,7 +68,7 @@ Human-Computer Interaction (HCI)
        style="width: 120px; height: 120px; object-fit: cover; border: 1px solid #ccc; border-radius: 6px;">
 
   <!-- 오른쪽 텍스트 -->
-
+ <div>
 <span style="font-size: 18px; font-weight: bold;">
   <a href="https://doi.org/10.1145/3706598.3713410" target="_blank">
     Understanding User Behavior in Window Selection using Dragging for Multiple Targets
