@@ -44,7 +44,7 @@ Human-Computer Interaction (HCI)
       Effect of Distractor on Temporal Target Selection
 </span><br>
 <b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
-Graphics Interface (<b>ACM GI 2026</b>; Submitted) <br>
+Graphics Interface (<b>GI 2026</b>; Submitted) <br>
 
 <span style="font-size: 18px; font-weight: bold;">
   <a href="https://programs.sigchi.org/chi/2026/program/content/222484" target="_blank">
