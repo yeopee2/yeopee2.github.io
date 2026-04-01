@@ -41,6 +41,12 @@ Human-Computer Interaction (HCI)
 # Publications
 ## Conferences
 <span style="font-size: 18px; font-weight: bold;">
+      Effect of Distractor on Temporal Target Selection
+</span><br>
+<b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
+Graphics Interface (<b>GI 2026</b> Submitted) <br>
+
+<span style="font-size: 18px; font-weight: bold;">
   <a href="https://programs.sigchi.org/chi/2026/program/content/222484" target="_blank">
     Steering through a Dynamically Varying Path
   </a>
@@ -81,13 +87,6 @@ ACM Conference on Intelligent User Interfaces (<b>ACM IUI 2025</b>) <br>
 <hr>
 
 ## Journals
-<span style="font-size: 18px; font-weight: bold;">
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5813440" target="_blank"> 
-      Effect of Distractor on Temporal Target Selection </a>
-</span><br>
-<b>Jae-Yeop Jeong</b>, Jiwon Lee, Euna Byun and Jin-Woo Jeong <br>
-TBD <br>
-
 <span style="font-size: 18px; font-weight: bold;">
     <a href="https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2631680" target="_blank"> 
       Effect of Onset Position of Ray Casting in Virtual Reality </a>
