@@ -47,7 +47,7 @@ Human-Computer Interaction (HCI)
 Graphics Interface (<b>GI 2026</b>; Submitted) <br>
 
 <span style="font-size: 18px; font-weight: bold;">
-  <a href="https://programs.sigchi.org/chi/2026/program/content/222484" target="_blank">
+  <a href="https://dl.acm.org/doi/pdf/10.1145/3772318.3790578" target="_blank">
     Steering through a Dynamically Varying Path
   </a>
 </span><br>
@@ -128,7 +128,7 @@ Cancers 2022 <b>(Top 24.2%)</b> <br>
 
 ## Poster and Workshop
 <span style="font-size: 18px; font-weight: bold;">
-    <a href="https://programs.sigchi.org/chi/2026/program/content/229740" target="_blank">
+    <a href="https://dl.acm.org/doi/pdf/10.1145/3772363.3798468" target="_blank">
       Knight Path: Supporting Player Sense-making in Game Narratives via Visual Scaffolding and Spoiler-Aware AI
     </a>
 </span><br>
@@ -136,7 +136,7 @@ Euna Byun, <b>Jae-Yeop Jeong</b>, Yewon Min, and Jin-Woo Jeong <br>
 Extended Abstracts of ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2026</b> Poster) <br>
 
 <span style="font-size: 18px; font-weight: bold;">
-    <a href="https://programs.sigchi.org/chi/2026/program/content/225841" target="_blank">
+    <a href="https://dl.acm.org/doi/pdf/10.1145/3772363.3798467" target="_blank">
       Investigating the Impact of Lying Postures on Mixed Reality Interaction
     </a>
 </span><br>
@@ -144,7 +144,7 @@ Yujin Jeong, Jiwon Lee, <b>Jae-Yeop Jeong</b>, Euna Byun, HyeokJu Ko, and Jin-Wo
 Extended Abstracts of ACM Conference on Human Factors in Computing Systems (<b>ACM CHI 2026</b> Poster) <br>
 
 <span style="font-size: 18px; font-weight: bold;">
-    <a href="https://programs.sigchi.org/chi/2026/program/content/229660" target="_blank">
+    <a href="https://dl.acm.org/doi/pdf/10.1145/3772363.3798595" target="_blank">
       How Video See-Through MR Affects Pointing on Physical Devices: From Smartphones to Large Monitors
     </a>
 </span><br>
