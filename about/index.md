@@ -16,7 +16,6 @@ comments: false
 <div style="margin:18px 0 28px; padding:16px 18px; background:#fff3e6; border-left:6px solid #f59e0b; border-radius:10px; line-height:1.55; color:#3f2a12;">
   <b>Currently in Surrey, British Columbia, Canada</b><br>
   I am staying at Simon Fraser University, Surrey Campus until August 2026.
-  Please feel free to reach out if you would like to talk about research or collaboration.
 </div>
 
 # Research Interest
