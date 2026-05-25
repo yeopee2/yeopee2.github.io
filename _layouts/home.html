@@ -6,8 +6,10 @@ layout: compress
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
+
 <head>
     {% include head.html %}
+
     <style>
         .profile-image {
             width: 200px;
@@ -18,7 +20,7 @@ layout: compress
             border-radius: 0;
         }
 
-        /* 이메일 스타일을 위한 CSS */
+        /* 이메일 스타일 */
         .email-address {
             font-size: 0.8rem;
             color: #555;
@@ -91,8 +93,16 @@ layout: compress
         .button-group .title {
             margin: 0;
         }
+
+        /* 방문자 지도 중앙 정렬 */
+        .visitor-map {
+            text-align: center;
+            margin-top: 25px;
+            margin-bottom: 20px;
+        }
     </style>
 </head>
+
 <body>
     <!-- Header -->
     <header class="header flex" role="banner">
@@ -141,5 +151,12 @@ layout: compress
     </header>
 
     {% include scripts.html %}
+
+    <!-- Visitor map -->
+    <div class="visitor-map">
+        <script type="text/javascript" id="mapmyvisitors"
+            src="https://mapmyvisitors.com/map.js?d=leQAgwNSpkn7o3IztgVDhApjGExP-PfbNjIGNIWWtQY&cl=ffffff&w=a">
+        </script>
+    </div>
 </body>
 </html>
