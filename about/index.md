@@ -25,9 +25,8 @@ style="margin:14px 0 28px; padding:18px 20px; background:#f8fafc; border-left:6p
 <pre>
 Human-Computer Interaction (HCI)
 │   ├── Human Motor Control
-│   │   ├── Empirical Human Performance Modeling 
-│   │   ├── Computational Simulation & Optimization   
-│   │   └── Understanding Human Behavior in GUIs
+│   ├── Empirical Human Performance Modeling
+│   ├── User Behavior Simulation
 │   └── Virtual Reality
 </pre>
 
