@@ -94,8 +94,9 @@ layout: compress
             margin: 0;
         }
 
-        /* 방문자 지도 중앙 정렬 */
+        /* 방문자 지도 중앙 정렬 (화면에서 숨김 처리 추가) */
         .visitor-map {
+            display: none !important; /* 지도를 화면에서 완전히 숨깁니다 */
             text-align: center;
             margin-top: 25px;
             margin-bottom: 20px;
@@ -152,11 +153,10 @@ layout: compress
 
     {% include scripts.html %}
 
-    <!-- Visitor map -->
+    <!-- Visitor map (추적 코드는 작동하되 화면에는 안 보입니다) -->
     <div class="visitor-map">
         <script type="text/javascript" id="mapmyvisitors"
             src="https://mapmyvisitors.com/map.js?d=leQAgwNSpkn7o3IztgVDhApjGExP-PfbNjIGNIWWtQY&cl=ffffff&w=a">
         </script>
     </div>
 </body>
-</html>
