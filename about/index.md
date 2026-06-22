@@ -46,13 +46,13 @@ Human-Computer Interaction (HCI)
 
 # Publications
 ## Conferences
-<!--
+
 <span style="font-size: 18px; font-weight: bold;">
       Modeling Throwing Selection in Virtual Reality
 </span><br>
 <b>Jae-Yeop Jeong</b>, Wolfgang Stuerzlinger and Jin-Woo Jeong <br>
-IEEE International Symposium on Mixed and Augmented Reality (<b>ISMAR 2026</b>) <br>
--->
+IEEE International Symposium on Mixed and Augmented Reality (<b>ISMAR 2026</b> Cond' Accepted) <br>
+
 
 <span style="font-size: 18px; font-weight: bold;">
       Effect of Distractor on Temporal Target Selection
