@@ -1,17 +1,169 @@
-/* About Me 버튼 중앙 배치 */
-.button-group {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 18px;
-    margin-bottom: 5px;
-}
+---
+layout: compress
+---
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
 
-.button-group .title {
-    margin: 0;
-}
+<head>
+    {% include head.html %}
 
-.button-group .btn.zoombtn {
-    min-width: 120px;
-    text-align: center;
-}
+    <style>
+        .profile-image {
+            width: 200px;
+            height: 250px;
+            object-fit: cover;
+            display: block;
+            margin: 0 auto;
+            border-radius: 0;
+        }
+
+        /* 이메일 스타일 */
+        .email-address {
+            font-size: 0.8rem;
+            color: #555;
+            margin-top: 5px;
+            text-align: center;
+        }
+
+        .email-address a {
+            color: #555;
+            text-decoration: none;
+        }
+
+        .email-address a:hover {
+            text-decoration: underline;
+        }
+
+        /* 헤더 내부 요소 중앙 정렬 */
+        .header.flex {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        .header.flex .row {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        /* 제목 스타일 */
+        .header.flex .title p {
+            margin: 0;
+        }
+
+        /* 수평선 스타일 */
+        .hr-line {
+            width: 80%;
+            margin: 20px 0;
+            border: 0;
+            border-top: 1px solid #ccc;
+        }
+
+        /* 버튼 스타일 */
+        .btn.zoombtn {
+            margin-top: 10px;
+            padding: 10px 20px;
+            background-color: #444;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+            display: inline-block;
+        }
+
+        .btn.zoombtn:hover {
+            background-color: #222;
+        }
+
+        /* About Me 버튼 중앙 배치 */
+        .button-group {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 18px;
+            margin-bottom: 5px;
+        }
+
+        .button-group .title {
+            margin: 0;
+        }
+
+        .button-group .btn.zoombtn {
+            min-width: 130px;
+            text-align: center;
+        }
+
+        /* 방문자 지도 중앙 정렬 (화면에서 숨김 처리 추가) */
+        .visitor-map {
+            display: none !important; /* 지도를 화면에서 완전히 숨깁니다 */
+            text-align: center;
+            margin-top: 25px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Header -->
+    <header class="header flex" role="banner">
+        <div class="container animated fadeIn">
+            <div class="row">
+                <a href="{{ site.url }}">
+                    <img src="{{ site.logo }}" alt="Jae-Yeop Jeong's Profile Picture" class="profile-image">
+                </a>
+
+                <h3 class="title">
+                    <a class="zoombtn" href="{{ site.url }}">
+                        <p style="font-size:1.2rem; font-weight:300;">{{ site.title }}</p>
+                    </a>
+                </h3>
+
+                <p class="email-address">
+                </p>
+
+                <hr class="hr-line">
+
+                <h3 class="title">
+                    <a href="{{ site.url }}">
+                        <p style="font-size:1rem; font-weight:300;">{{ site.bio }}</p>
+                    </a>
+                </h3>
+
+                {% include social-links.html %}
+
+                <hr class="hr-line">
+
+                <div class="button-group">
+                    <h3 class="title">
+                        <a class="btn zoombtn" href="{{ site.url }}/about">
+                            About Me
+                        </a>
+                    </h3>
+
+                    {% comment %}
+                    <h3 class="title">
+                        <a class="btn zoombtn" href="{{ site.url }}/assets/cv/CV.pdf" target="_blank" rel="noopener noreferrer">
+                            CV
+                        </a>
+                    </h3>
+                    {% endcomment %}
+                </div>
+            </div>
+        </div>
+    </header>
+
+    {% include scripts.html %}
+
+    <!-- Visitor map (추적 코드는 작동하되 화면에는 안 보입니다) -->
+    <div class="visitor-map">
+        <script type="text/javascript" id="mapmyvisitors"
+            src="https://mapmyvisitors.com/map.js?d=leQAgwNSpkn7o3IztgVDhApjGExP-PfbNjIGNIWWtQY&cl=ffffff&w=a">
+        </script>
+    </div>
+</body>
