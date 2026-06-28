@@ -119,7 +119,7 @@ Human Motor Contorl, IISE and DS, SeoulTech, 2025
 <span style="font-size: 18px; font-weight: bold;">
     Student Volunteer
 </span><br>
-2026: CHI
+2026: CHI <br>
 2025: CHI and ISMAR <br>
 
 
