@@ -44,6 +44,85 @@ Human-Computer Interaction (HCI)
 </div>
 -->
 
+# Awards, Grants, and Honors
+<span style="font-size: 18px; font-weight: bold;">
+    Best Paper <br>
+</span>
+<ul>
+    <li>CHI 2025: 🏅 Honorable Mention Award </li>
+    <li>IUI 2025: 🏅 Best Paper Award </li>
+</ul>
+
+<span style="font-size: 18px; font-weight: bold;">
+    Outstanding Award in the DS Interface Program<br>
+</span>
+<ul>
+    <li>Brain Korea 21 (BK21) Data Science and Business Potential Education & Research Group, SeoulTech, 2026</li>
+    <li>Interface Title: Human Motor Control</li>
+</ul>
+
+<span style="font-size: 18px; font-weight: bold;">
+    Research Grant for Ph.D. Students <br>
+</span>
+<ul>
+    <li>National Research Foundation of Korea, 2025-2026 </li>
+<li>Proposal Title: Pointing Behavior Simulation Model in High Cognitive Load Environments via Computational Rationality: A Case Study Involving Moving Distractors </li>
+</ul>
+
+<span style="font-size: 18px; font-weight: bold;">
+    Outstanding Technology Award in Real-Challenge competition <br>
+</span>
+<ul>
+    <li>KIRD 2022 </li>
+    <li>Product Title: Knock Knock </li>
+</ul>
+
+<span style="font-size: 18px; font-weight: bold;">
+    <b>3rd place</b> in "Learning from Synthesis Data" Challenge <br>
+</span>
+<ul>
+    <li>ECCV 2022 </li>
+    <li>Competition Title: 4th Workshop and Competition on Affective Behavior Analysis in-the-wild </li>
+</ul>
+
+<span style="font-size: 18px; font-weight: bold;">
+    <b>Runner up</b> in Expression Classification Challenge <br>
+</span>
+<ul>
+    <li>CVPR 2022 </li>
+    <li>Competition Title: 3rd Workshop and Competition on Affective Behavior Analysis in-the-wild </li>
+</ul>
+
+<hr>
+
+# Teaching
+<span style="font-size: 18px; font-weight: bold;">
+    Invited Talk
+</span><br>
+Understanding User Behavior in Window Selection using Dragging for Multiple Targets, Top Conference Session, KCC 2025 <br>
+
+<span style="font-size: 18px; font-weight: bold;">
+    Guest Lecture
+</span><br>
+Human Motor Contorl, IISE and DS, SeoulTech, 2025
+
+<hr>
+
+# Academic Services
+<span style="font-size: 18px; font-weight: bold;">
+    Reviewer
+</span><br>
+2026: IJHCS, CHI, IEEE VR, and ISS  <br>
+2025: CHI Play WIP, CHI LBW, ICMI LBR, and SUI <br>
+2024: ICMI LBR <br>
+
+<span style="font-size: 18px; font-weight: bold;">
+    Student Volunteer
+</span><br>
+2026: CHI
+2025: CHI and ISMAR <br>
+
+
 # Publications
 ## Conferences
 
@@ -246,87 +325,6 @@ ACM ETRA workshop on Eye Tracking in Learning and Education (<b>ACM ETRA 2022</b
 ACM Conference on Multimodal Interaction (<b>ACM ICMI 2021</b> LBR) <br>
 
 <hr>
-
-# Awards, Grants, and Honors
-<span style="font-size: 18px; font-weight: bold;">
-    Best Paper <br>
-</span>
-<ul>
-    <li>CHI 2025: 🏅 Honorable Mention Award </li>
-    <li>IUI 2025: 🏅 Best Paper Award </li>
-</ul>
-
-<span style="font-size: 18px; font-weight: bold;">
-    Outstanding Award in the DS Interface Program<br>
-</span>
-<ul>
-    <li>Brain Korea 21 (BK21) Data Science and Business Potential Education & Research Group, SeoulTech, 2026</li>
-    <li>Interface Title: Human Motor Control</li>
-</ul>
-
-<span style="font-size: 18px; font-weight: bold;">
-    Research Grant for Ph.D. Students <br>
-</span>
-<ul>
-    <li>National Research Foundation of Korea, 2025-2026 </li>
-<li>Proposal Title: Pointing Behavior Simulation Model in High Cognitive Load Environments via Computational Rationality: A Case Study Involving Moving Distractors </li>
-</ul>
-
-<span style="font-size: 18px; font-weight: bold;">
-    Outstanding Technology Award in Real-Challenge competition <br>
-</span>
-<ul>
-    <li>KIRD 2022 </li>
-    <li>Product Title: Knock Knock </li>
-</ul>
-
-<span style="font-size: 18px; font-weight: bold;">
-    <b>3rd place</b> in "Learning from Synthesis Data" Challenge <br>
-</span>
-<ul>
-    <li>ECCV 2022 </li>
-    <li>Competition Title: 4th Workshop and Competition on Affective Behavior Analysis in-the-wild </li>
-</ul>
-
-<span style="font-size: 18px; font-weight: bold;">
-    <b>Runner up</b> in Expression Classification Challenge <br>
-</span>
-<ul>
-    <li>CVPR 2022 </li>
-    <li>Competition Title: 3rd Workshop and Competition on Affective Behavior Analysis in-the-wild </li>
-</ul>
-
-<hr>
-
-# Teaching
-<span style="font-size: 18px; font-weight: bold;">
-    Invited Talk
-</span><br>
-Understanding User Behavior in Window Selection using Dragging for Multiple Targets, Top Conference Session, KCC 2025 <br>
-
-<span style="font-size: 18px; font-weight: bold;">
-    Guest Lecture
-</span><br>
-Human Motor Contorl, IISE and DS, SeoulTech, 2025
-
-<hr>
-
-# Academic Services
-<span style="font-size: 18px; font-weight: bold;">
-    Reviewer
-</span><br>
-2026: IJHCS, CHI, IEEE VR, and ISS  <br>
-2025: CHI Play WIP, CHI LBW, ICMI LBR, and SUI <br>
-2024: ICMI LBR <br>
-
-<span style="font-size: 18px; font-weight: bold;">
-    Student Volunteer
-</span><br>
-2026: CHI
-2025: CHI and ISMAR <br>
-
-
-
 
 
 
