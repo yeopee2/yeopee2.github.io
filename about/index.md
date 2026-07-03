@@ -57,7 +57,7 @@ Human-Computer Interaction (HCI)
     Best Ph.D. Thesis Award<br>
 </span>
 <ul>
-    <li>Brain Korea 21 (BK21) Data Science and Business Potential Education & Research Group, SeoulTech, 2026</li>
+    <li>Department of Data Science, SeoulTech, 2026</li>
     <li>Thesis Title: Modeling User Performance under Spatiotemporal Constraints</li>
 </ul>
 
