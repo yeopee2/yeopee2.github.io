@@ -54,6 +54,14 @@ Human-Computer Interaction (HCI)
 </ul>
 
 <span style="font-size: 18px; font-weight: bold;">
+    Best Ph.D. Thesis Award<br>
+</span>
+<ul>
+    <li>Brain Korea 21 (BK21) Data Science and Business Potential Education & Research Group, SeoulTech, 2026</li>
+    <li>Thesis Title: Modeling User Performance under Spatiotemporal Constraints</li>
+</ul>
+
+<span style="font-size: 18px; font-weight: bold;">
     Outstanding Award in the DS Interface Program<br>
 </span>
 <ul>
@@ -123,7 +131,7 @@ Human Motor Contorl, IISE and DS, SeoulTech, 2025
 2025: CHI and ISMAR <br>
 
 
-# Publications
+# Scientific Contributions
 ## Conferences
 
 <span style="font-size: 18px; font-weight: bold;">
