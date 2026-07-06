@@ -27,7 +27,7 @@ Human-Computer Interaction (HCI)
 │   ├── Human Information Processing
 │   ├── Empirical Human Performance Modeling
 │   ├── User Behavior Simulation
-│   └── Spatial User Intefaces
+│   └── Spatial User Interfaces
 </pre>
 
 
