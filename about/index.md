@@ -133,14 +133,6 @@ Human Motor Contorl, IISE and DS, SeoulTech, 2025
 
 # Scientific Contributions
 ## Conferences
-
-<span style="font-size: 18px; font-weight: bold;">
-      Modeling Throwing Selection in Virtual Reality
-</span><br>
-<b>Jae-Yeop Jeong</b>, Wolfgang Stuerzlinger and Jin-Woo Jeong <br>
-IEEE International Symposium on Mixed and Augmented Reality (<b>ISMAR 2026</b> Cond' Accepted) <br>
-
-
 <span style="font-size: 18px; font-weight: bold;">
       Effect of Distractor on Temporal Target Selection
 </span><br>
@@ -188,6 +180,12 @@ ACM Conference on Intelligent User Interfaces (<b>ACM IUI 2025</b>) <br>
 <hr>
 
 ## Journals
+<span style="font-size: 18px; font-weight: bold;">
+      Modeling Throwing Selection in Virtual Reality
+</span><br>
+<b>Jae-Yeop Jeong</b>, Wolfgang Stuerzlinger and Jin-Woo Jeong <br>
+IEEE Transactions on Visualization and Computer Graphics 2026 (Presented at ISMAR 2026, Cond' Accepted) <br>
+
 <span style="font-size: 18px; font-weight: bold;">
     <a href="https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2631680" target="_blank"> 
       Effect of Onset Position of Ray Casting in Virtual Reality </a>
