@@ -58,7 +58,7 @@ Human-Computer Interaction (HCI)
 </span>
 <ul>
     <li>Department of Data Science, SeoulTech, 2026</li>
-    <li>Thesis Title: Modeling User Performance under Spatiotemporal Constraints</li>
+    <li>Dissertation Title: Modeling User Performance under Spatiotemporal Constraints</li>
 </ul>
 
 <span style="font-size: 18px; font-weight: bold;">
