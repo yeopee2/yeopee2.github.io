@@ -54,7 +54,7 @@ Human-Computer Interaction (HCI)
 </ul>
 
 <span style="font-size: 18px; font-weight: bold;">
-    Best Ph.D. Thesis Award<br>
+    Best Ph.D. Dissertation Award<br>
 </span>
 <ul>
     <li>Department of Data Science, SeoulTech, 2026</li>
