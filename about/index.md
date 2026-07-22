@@ -134,7 +134,9 @@ Human Motor Contorl, IISE and DS, SeoulTech, 2025
 # Scientific Contributions
 ## Conferences
 <span style="font-size: 18px; font-weight: bold;">
+    <a href="https://doi.org/10.1145/3831423.3831461" target="_blank"> 
       Effect of Distractor on Temporal Target Selection
+    </a>
 </span><br>
 <b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
 Graphics Interface (<b>GI 2026</b>) <br>
