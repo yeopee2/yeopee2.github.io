@@ -13,11 +13,6 @@ comments: false
 <b>Jae-Yeop Jeong</b> is a Ph.D. candidate in Data Science of Seoul National University of Science and Technology (SeoulTech) directed by <a href="http://ixlab.seoultech.ac.kr" target="_blank">Jin-Woo Jeong</a> and supported by <a href="https://www.nrf.re.kr/page/378?menuNo=378" target="_blank">NRF Research Grant for Ph.D. Students</a> of South Korea. He earned his BSe degree at Kumoh National Institute of Technology (KIT) in 2021 and he was a researcher at Center for Immersive Media Research of Gumi Electronics ＆ Information Technology Research Institute (GERI) in 2020-2021. He is currently working at VVISE Lab in Simon Fraser University as a visiting Ph.D. student supervised by <a href="https://vvise.iat.sfu.ca/people/wolfgang-stuerzlinger" target="_blank">Wolfgang Stuerzlinger</a>. Please feel free to reach out to him (<b>jaey.jeong@seoultech.ac.kr</b>).
 
 
-<div style="margin:18px 0 28px; padding:16px 18px; background:#fff3e6; border-left:6px solid #f59e0b; border-radius:10px; line-height:1.55; color:#3f2a12;">
-  <b>Currently in Surrey, British Columbia, Canada</b><br>
-  I am staying at Simon Fraser University, Surrey Campus until August 2026.
-</div>
-
 # Research Interest
 <!--
 style="margin:14px 0 28px; padding:18px 20px; background:#f8fafc; border-left:6px solid #0f766e; border-radius:8px; font-family:monospace; line-height:1.5; color:#1e293b; white-space:pre;">
