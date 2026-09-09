@@ -209,7 +209,7 @@ International Journal of Human-Computer Interaction 2025 <b>(Top 14%)</b> <br>
 
 <span style="font-size: 18px; font-weight: bold;">
   <a href="https://link.springer.com/article/10.1007/s10639-024-12697-w" target="_blank"> 
-      Enhancing learner experience with instructor cues in video lectures: A comprehensive exploration and design discovery toward a novel gaze visualization 
+      Enhancing Learner Experience with Instructor Cues in Video Lectures: a Comprehensive Exploration and Design Discovery toward a Novel Gaze Visualization 
   </a>
 </span><br>
 <b>Jae-Yeop Jeong</b>, Jiyeon Oh, and Jin-Woo Jeong <br>
