@@ -181,7 +181,9 @@ ACM Conference on Intelligent User Interfaces (<b>ACM IUI 2025</b>) <br>
 
 ## Journals
 <span style="font-size: 18px; font-weight: bold;">
+    <a href="https://ieeexplore.ieee.org/abstract/document/11770444?casa_token=0CUnmx4joe0AAAAA:42knk3OsORjUJB00gwx7bvDnMeuwWzCI6I1Mvi1FK8tuEC8JjMoLaSeWvvZSylpfb44mmpYbUJo" target="_blank">
       Modeling Throwing Selection in Virtual Reality
+    </a>
 </span><br>
 <b>Jae-Yeop Jeong</b>, Wolfgang Stuerzlinger and Jin-Woo Jeong <br>
 IEEE Transactions on Visualization and Computer Graphics 2026 <b>(Top  7.3%; Presented at ISMAR 2026)</b> <br>
