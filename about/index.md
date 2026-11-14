@@ -126,7 +126,9 @@ Human Motor Contorl, IISE and DS, SeoulTech, 2025
 # Scientific Contributions
 ## Conferences
 <span style="font-size: 18px; font-weight: bold;"> 
+    <a href="https://dl.acm.org/doi/10.1145/3822517.3848694" target="_blank">
       Lost in the Bed: Understanding How Lying Posture and Input Modality Shape Spatial Interaction in Mixed Reality
+    </a>
 </span><br>
 Yujin Jeong, Byeonghwa Yu, Jiseop Lee,<b>Jae-Yeop Jeong</b> and Jin-Woo Jeong <br>
 ACM Symposium on Virtual Reality Software and Technology (<b>ACM VRST 2026</b>) <br>
